@@ -1,0 +1,890 @@
+listing_id,city,avg_sentiment_score,pct_positive,total_reviews,cleanliness_mentions,wifi_mentions,checkin_mentions,location_mentions,noise_mentions,host_mentions,value_mentions,sentiment_category,top_praise,top_complaint
+1333125018634980770,seattle,0.551,0.912,34,6,0,0,9,1,6,8,Very Positive,location,value
+21922221,chicago,0.806,1,6,1,0,0,2,1,3,0,Very Positive,host responsiveness,noise
+1401607465309448250,chicago,0.716,0.9,20,7,0,3,10,3,8,0,Very Positive,location,cleanliness
+1368972578763289457,twin_cities,0.758,0.947,19,7,0,1,10,1,7,1,Very Positive,location,cleanliness
+23752202,nashville,0.914,0.996,225,53,0,33,180,36,80,7,Very Positive,location,cleanliness
+823879694871437688,nashville,0.836,0.988,243,102,1,17,134,19,105,16,Very Positive,location,cleanliness
+44447948,seattle,0.876,1,37,21,0,3,16,6,23,3,Very Positive,host responsiveness,cleanliness
+1106590124492797889,austin,0.881,0.993,292,111,3,14,62,30,117,11,Very Positive,host responsiveness,cleanliness
+583823273939691037,austin,0.85,0.99,209,45,2,31,135,14,69,8,Very Positive,location,cleanliness
+786194636674358868,austin,0.855,0.964,55,12,0,4,20,9,16,4,Very Positive,location,cleanliness
+1319976735866847631,chicago,0.873,0.944,36,14,0,1,10,0,26,2,Very Positive,host responsiveness,cleanliness
+44085884,chicago,0.909,1,20,2,1,1,15,1,14,0,Very Positive,location,cleanliness
+36491125,seattle,0.876,0.98,50,9,2,6,39,6,20,2,Very Positive,location,cleanliness
+772423437416351327,seattle,0.959,1,22,7,1,0,16,3,11,1,Very Positive,location,cleanliness
+1138751400323352928,seattle,0.769,0.948,58,17,1,3,27,6,16,1,Very Positive,location,cleanliness
+875223435767167901,twin_cities,0.811,0.923,13,1,0,0,1,1,9,0,Very Positive,host responsiveness,noise
+7678127,chicago,0.792,0.956,363,73,0,18,237,17,118,20,Very Positive,location,cleanliness
+629601271707303342,twin_cities,0.787,0.973,37,10,1,3,14,3,9,2,Very Positive,location,cleanliness
+24245679,nashville,0.816,0.971,244,64,1,12,127,56,59,12,Very Positive,location,cleanliness
+29035011,austin,0.838,0.952,42,9,1,0,17,8,20,1,Very Positive,host responsiveness,cleanliness
+53508162,nashville,0.832,0.988,86,29,0,4,37,7,14,3,Very Positive,location,cleanliness
+26566116,seattle,0.784,0.936,47,6,4,5,25,9,11,1,Very Positive,location,noise
+54397152,seattle,0.857,0.962,158,48,1,9,79,21,91,7,Very Positive,host responsiveness,cleanliness
+23074190,nashville,0.907,0.99,100,31,1,8,50,19,37,2,Very Positive,location,cleanliness
+16613520,nashville,0.803,0.962,340,53,11,16,257,44,115,46,Very Positive,location,cleanliness
+3689461,seattle,0.842,0.931,58,14,0,6,34,8,31,2,Very Positive,location,cleanliness
+1401358674732436634,chicago,0.614,0.846,13,9,0,3,5,5,5,1,Very Positive,cleanliness,cleanliness
+833363400738218379,twin_cities,0.853,0.98,99,20,0,2,33,11,29,5,Very Positive,location,cleanliness
+53432514,seattle,0.886,0.929,14,3,3,0,5,2,8,0,Very Positive,host responsiveness,cleanliness
+902774912361923889,twin_cities,0.919,1,80,37,0,3,36,11,29,3,Very Positive,cleanliness,cleanliness
+716067339330031421,austin,0.862,0.984,62,25,0,5,38,10,23,0,Very Positive,location,cleanliness
+720328633552951906,twin_cities,0.847,1,48,11,0,2,20,9,14,1,Very Positive,location,cleanliness
+884022569601206142,seattle,0.636,0.957,23,7,1,2,12,1,6,1,Very Positive,location,cleanliness
+34303597,chicago,0.824,0.961,51,20,2,6,39,13,19,1,Very Positive,location,cleanliness
+1216690775512781227,twin_cities,0.827,1,17,6,0,0,3,5,2,0,Very Positive,cleanliness,cleanliness
+39561422,seattle,0.873,0.981,362,93,1,25,185,43,113,10,Very Positive,location,cleanliness
+1416433028411087979,seattle,0.852,0.929,28,14,0,4,20,6,17,0,Very Positive,location,cleanliness
+1131450096636296178,austin,0.817,0.923,13,2,0,2,4,1,7,0,Very Positive,host responsiveness,cleanliness
+669222996858014350,chicago,0.816,0.97,33,7,1,6,15,4,10,0,Very Positive,location,cleanliness
+39320169,seattle,0.755,0.954,283,70,5,16,122,36,65,27,Very Positive,location,cleanliness
+1049601032351180111,austin,0.836,0.974,38,10,1,1,20,3,13,0,Very Positive,location,cleanliness
+935459998451079421,chicago,0.81,1,23,7,0,2,20,3,6,1,Very Positive,location,cleanliness
+858637867168746631,austin,0.911,0.991,111,51,3,11,58,19,65,3,Very Positive,host responsiveness,cleanliness
+1472699362062313688,austin,-0.511,0,1,0,0,0,1,0,0,0,Very Negative,location,noise
+866916481195578374,chicago,0.703,0.864,22,9,1,2,4,2,11,2,Very Positive,host responsiveness,cleanliness
+1064759719148784948,chicago,0.927,1,23,1,0,1,7,4,17,0,Very Positive,host responsiveness,noise
+1050026336429682918,twin_cities,0.88,0.989,88,29,0,1,37,7,36,4,Very Positive,location,cleanliness
+1171999431564067727,nashville,0.798,0.947,38,19,0,4,17,6,13,3,Very Positive,cleanliness,cleanliness
+36595243,seattle,0.929,1,72,12,2,3,32,10,28,3,Very Positive,location,cleanliness
+634655043034465784,chicago,0.877,0.971,35,12,1,4,22,2,19,0,Very Positive,location,cleanliness
+8066269,twin_cities,0.82,0.95,40,17,1,0,14,11,11,0,Very Positive,cleanliness,cleanliness
+15132653,chicago,0.891,0.989,265,76,0,25,212,31,111,7,Very Positive,location,cleanliness
+555041639366197657,chicago,0.893,0.989,266,103,2,22,205,30,120,4,Very Positive,location,cleanliness
+29368917,twin_cities,0.858,0.988,162,26,1,11,109,26,56,10,Very Positive,location,noise
+29480719,nashville,0.772,0.949,177,72,3,9,108,18,37,17,Very Positive,location,cleanliness
+1419677619781848323,seattle,0.808,0.929,14,6,0,0,6,1,7,0,Very Positive,host responsiveness,cleanliness
+5231461,chicago,0.885,0.986,277,78,5,22,159,53,107,5,Very Positive,location,cleanliness
+52903385,twin_cities,0.875,0.99,105,22,0,8,55,5,44,1,Very Positive,location,cleanliness
+842296106377253917,seattle,0.9,1,14,2,0,0,9,1,6,0,Very Positive,location,cleanliness
+51035891,austin,0.903,0.96,25,7,0,3,19,4,14,0,Very Positive,location,cleanliness
+718360358194989374,nashville,0.851,0.978,90,33,2,4,40,10,33,6,Very Positive,location,cleanliness
+32308420,nashville,0.758,0.984,61,24,0,10,29,7,12,14,Very Positive,location,cleanliness
+980633130019975644,chicago,0.772,0.938,112,30,0,8,49,14,51,6,Very Positive,host responsiveness,cleanliness
+1445894095542401053,nashville,0.833,0.889,9,4,0,1,6,1,3,0,Very Positive,location,cleanliness
+23629432,austin,0.697,0.846,13,2,0,1,4,2,4,1,Very Positive,location,noise
+1354449765000955171,nashville,0.876,1,30,9,1,2,15,9,5,5,Very Positive,location,noise
+1248593809996351153,twin_cities,0.903,1,12,4,1,1,12,3,1,0,Very Positive,location,cleanliness
+48031912,twin_cities,0.793,0.975,40,14,1,3,8,6,5,2,Very Positive,cleanliness,cleanliness
+24286056,seattle,0.883,0.977,88,20,2,7,71,10,43,3,Very Positive,location,cleanliness
+1318897929946077472,nashville,0.867,0.971,34,9,0,4,5,4,24,2,Very Positive,host responsiveness,cleanliness
+595948293511661289,chicago,0.748,0.895,86,35,1,10,48,18,25,5,Very Positive,location,cleanliness
+42119903,twin_cities,0.799,0.952,42,10,1,4,26,3,10,5,Very Positive,location,cleanliness
+22973592,twin_cities,0.854,1,45,6,1,2,12,8,23,2,Very Positive,host responsiveness,noise
+15374069,nashville,0.899,1,37,6,0,5,29,1,22,3,Very Positive,location,cleanliness
+13185632,austin,0.908,0.987,154,24,1,13,81,29,47,4,Very Positive,location,noise
+824305633720359543,seattle,0.81,0.937,127,45,2,14,81,8,60,0,Very Positive,location,cleanliness
+887161071201111462,twin_cities,0.808,1,9,1,0,0,5,1,3,0,Very Positive,location,noise
+49798584,seattle,0.929,1,175,59,1,11,104,41,53,4,Very Positive,location,cleanliness
+690642121524994352,twin_cities,0.881,0.987,78,8,0,4,13,5,18,0,Very Positive,host responsiveness,cleanliness
+44181938,nashville,0.928,1,86,31,0,11,42,2,52,3,Very Positive,host responsiveness,cleanliness
+4438136,nashville,0.892,0.991,211,86,5,16,159,40,76,6,Very Positive,location,cleanliness
+20801999,austin,0.856,0.981,480,153,10,46,353,141,123,16,Very Positive,location,cleanliness
+38950182,chicago,0.683,0.842,19,6,0,2,9,0,6,3,Very Positive,location,cleanliness
+1150230996773121745,nashville,0.903,1,3,0,0,0,2,1,2,0,Very Positive,location,noise
+955833527387385803,austin,0.788,0.903,31,2,1,1,12,8,12,0,Very Positive,location,noise
+1172512874074892203,nashville,0.841,0.974,38,12,0,0,12,5,9,1,Very Positive,cleanliness,cleanliness
+930342490020655000,twin_cities,0.882,0.979,48,11,2,8,27,7,18,1,Very Positive,location,cleanliness
+1371813492573128550,nashville,0.62,0.875,16,4,0,1,5,1,5,4,Very Positive,location,cleanliness
+1225696519822610803,chicago,0.744,0.905,21,11,1,1,9,4,6,1,Very Positive,cleanliness,cleanliness
+1152278992405471970,seattle,0.822,0.952,21,8,0,1,15,1,6,0,Very Positive,location,cleanliness
+769727367095376357,nashville,0.88,0.991,232,52,0,15,134,23,74,5,Very Positive,location,cleanliness
+811645935641520737,nashville,0.727,0.953,64,13,2,1,16,3,16,3,Very Positive,location,cleanliness
+1066676751333654433,nashville,0.805,1,21,7,0,2,7,0,7,1,Very Positive,cleanliness,cleanliness
+52540003,seattle,0.812,0.952,227,75,4,17,107,44,101,13,Very Positive,location,cleanliness
+1088687068286826708,austin,0.973,1,4,1,0,1,2,1,3,0,Very Positive,host responsiveness,noise
+1082126515189599430,twin_cities,0.672,0.924,66,16,0,9,33,7,21,8,Very Positive,location,cleanliness
+49758606,nashville,0.845,0.983,347,131,2,27,127,45,116,22,Very Positive,cleanliness,cleanliness
+28414569,seattle,0.84,0.968,189,70,2,16,135,54,33,2,Very Positive,location,cleanliness
+1045288638995583887,seattle,0.6,0.873,55,11,0,12,26,5,18,9,Very Positive,location,check-in
+49757704,twin_cities,0.87,0.962,26,5,0,1,13,3,10,0,Very Positive,location,cleanliness
+1339547740395323597,seattle,0.699,0.865,37,7,0,4,22,3,8,1,Very Positive,location,cleanliness
+773277395382707715,chicago,0.843,0.974,117,27,1,6,70,19,60,8,Very Positive,location,cleanliness
+556337653530806747,nashville,0.869,0.961,102,24,0,4,57,22,34,5,Very Positive,location,cleanliness
+1187071175004234369,seattle,0.652,0.818,11,4,0,1,3,2,4,1,Very Positive,cleanliness,cleanliness
+45515581,chicago,0.832,0.958,118,37,0,8,59,15,31,3,Very Positive,location,cleanliness
+19802859,chicago,0.916,1,28,7,0,2,14,3,18,0,Very Positive,host responsiveness,cleanliness
+78884,austin,0.811,0.973,219,40,8,19,158,25,37,12,Very Positive,location,cleanliness
+602141272234849893,austin,0.836,1,18,2,3,1,15,3,10,0,Very Positive,location,noise
+54054710,austin,0.854,0.973,75,17,2,2,21,10,35,1,Very Positive,host responsiveness,cleanliness
+1063086238930632365,nashville,0.861,1,31,10,0,2,9,3,11,0,Very Positive,host responsiveness,cleanliness
+1085937067923470996,seattle,0.868,0.983,60,29,0,2,25,7,30,2,Very Positive,host responsiveness,cleanliness
+1102253973357763888,austin,0.721,0.953,64,14,1,3,21,9,25,5,Very Positive,host responsiveness,cleanliness
+54122310,twin_cities,0.873,0.985,68,21,2,7,43,21,21,4,Very Positive,location,noise
+33531706,seattle,0.896,0.969,32,11,0,0,10,12,19,4,Very Positive,host responsiveness,noise
+1369209014408193643,chicago,0.88,1,7,5,0,0,6,3,5,2,Very Positive,location,cleanliness
+52223997,twin_cities,0.778,0.948,97,31,6,9,49,7,29,9,Very Positive,location,cleanliness
+13925303,seattle,0.718,0.905,84,30,1,6,45,21,27,5,Very Positive,location,cleanliness
+43125458,chicago,0.919,1,2,1,0,0,2,1,2,1,Very Positive,location,noise
+683703180206343843,twin_cities,0.734,0.933,15,4,0,2,6,3,2,2,Very Positive,location,cleanliness
+842664200760564648,austin,0.781,0.959,147,54,0,6,61,20,55,14,Very Positive,location,cleanliness
+1436390764910307884,chicago,0.726,0.857,7,3,0,1,4,1,4,2,Very Positive,location,cleanliness
+15867604,twin_cities,0.836,0.973,110,22,0,7,81,20,32,6,Very Positive,location,cleanliness
+17566215,austin,0.873,1,6,2,0,0,2,4,6,0,Very Positive,host responsiveness,noise
+28930638,nashville,0.846,0.982,112,32,0,6,56,8,32,5,Very Positive,location,cleanliness
+27984069,seattle,0.825,0.97,169,59,3,10,70,47,39,7,Very Positive,location,cleanliness
+1050363254655317916,chicago,0.839,0.988,85,30,0,5,18,3,34,2,Very Positive,host responsiveness,cleanliness
+1280541086670721643,austin,0.739,0.923,26,8,2,1,10,1,10,0,Very Positive,location,cleanliness
+1050206706020357776,twin_cities,0.781,1,20,4,1,0,6,0,7,0,Very Positive,host responsiveness,cleanliness
+1419941479392186548,seattle,0.842,0.955,22,6,0,0,15,2,10,0,Very Positive,location,cleanliness
+40752964,nashville,0.928,1,55,18,0,4,42,4,20,2,Very Positive,location,cleanliness
+53148020,seattle,0.857,0.981,154,37,1,17,89,19,35,3,Very Positive,location,cleanliness
+1466262923206266439,nashville,0.538,0.75,4,1,0,0,1,1,1,0,Very Positive,cleanliness,noise
+49907715,seattle,0.757,0.922,192,84,1,24,65,21,70,5,Very Positive,cleanliness,cleanliness
+1065692938755668123,seattle,0.805,0.955,44,14,2,6,27,3,19,2,Very Positive,location,cleanliness
+724758795134613886,seattle,0.848,0.978,90,36,3,9,47,17,45,2,Very Positive,location,cleanliness
+823273576559656432,chicago,0.814,0.977,43,8,1,0,24,7,18,1,Very Positive,location,cleanliness
+658174043006808192,chicago,0.502,0.839,31,8,0,2,9,4,6,2,Very Positive,location,cleanliness
+722392209236655356,chicago,0.913,0.985,65,24,1,8,32,8,38,2,Very Positive,host responsiveness,cleanliness
+48703423,chicago,0.71,0.889,99,27,3,3,38,12,33,9,Very Positive,location,cleanliness
+22701725,twin_cities,0.944,1,8,1,0,1,4,0,1,0,Very Positive,location,cleanliness
+1450201973281913798,nashville,0.769,1,5,0,0,0,3,0,0,0,Very Positive,location,noise
+971232060396361110,austin,0.636,0.889,9,6,0,0,3,1,4,2,Very Positive,cleanliness,cleanliness
+9590401,chicago,0.811,0.943,105,33,3,17,44,15,31,7,Very Positive,location,cleanliness
+20387243,twin_cities,0.875,0.989,88,9,3,2,51,8,28,3,Very Positive,location,cleanliness
+1234990114846742912,twin_cities,0.43,0.714,7,4,0,1,1,0,2,1,Positive,cleanliness,cleanliness
+850179137902544665,nashville,0.827,0.976,205,54,0,36,129,13,74,11,Very Positive,location,cleanliness
+1444180532335236954,twin_cities,0.834,1,12,2,1,0,4,3,6,1,Very Positive,host responsiveness,noise
+26008813,twin_cities,0.721,0.923,13,1,0,1,2,1,1,0,Very Positive,location,noise
+947412,austin,0.8,0.986,69,21,3,10,34,12,16,4,Very Positive,location,cleanliness
+1278215447511408499,austin,0.747,0.846,26,7,0,2,14,1,7,2,Very Positive,location,cleanliness
+1166907641931739495,twin_cities,0.892,0.98,50,14,0,1,6,4,9,1,Very Positive,cleanliness,cleanliness
+1041220523551238802,chicago,0.57,0.8,20,3,0,1,8,1,7,2,Very Positive,location,cleanliness
+1304633555888131533,seattle,0.7,0.933,15,4,0,1,4,7,5,2,Very Positive,host responsiveness,noise
+1015406132816015238,chicago,0.831,0.974,115,45,1,5,82,21,36,6,Very Positive,location,cleanliness
+52077442,twin_cities,0.86,0.993,151,32,5,8,76,20,60,6,Very Positive,location,cleanliness
+1208955630136310370,twin_cities,0.892,1,30,8,0,0,9,1,20,1,Very Positive,host responsiveness,cleanliness
+1401361976387458579,chicago,0.638,0.9,10,3,0,1,4,0,4,0,Very Positive,location,cleanliness
+969856762598277328,seattle,0.698,0.885,52,20,0,3,35,6,2,2,Very Positive,location,cleanliness
+1399418378652606712,nashville,0.843,1,6,2,0,0,2,0,2,0,Very Positive,cleanliness,cleanliness
+51519686,chicago,0.74,0.833,6,1,0,0,5,1,2,0,Very Positive,location,noise
+22828040,twin_cities,0.789,0.962,368,102,3,21,182,46,135,37,Very Positive,location,cleanliness
+756167625428804683,seattle,0.763,0.926,94,35,1,2,37,6,26,3,Very Positive,location,cleanliness
+1102988756155336546,nashville,0.92,1,38,11,0,1,15,1,22,1,Very Positive,host responsiveness,cleanliness
+1086592632845214960,seattle,0.818,0.986,71,19,0,2,42,19,18,5,Very Positive,location,noise
+859615475884013734,twin_cities,0.888,1,7,1,0,1,1,0,3,0,Very Positive,host responsiveness,cleanliness
+1253252110906517891,twin_cities,0.901,1,7,1,0,1,5,1,4,0,Very Positive,location,noise
+39907322,seattle,0.79,0.953,128,36,0,7,64,22,39,3,Very Positive,location,cleanliness
+22616889,nashville,0.863,0.971,209,70,0,5,118,34,64,6,Very Positive,location,cleanliness
+50843302,austin,0.645,0.853,34,6,0,4,14,5,8,3,Very Positive,location,cleanliness
+28561534,twin_cities,0.873,1,18,4,0,0,9,6,14,1,Very Positive,host responsiveness,noise
+8953380,chicago,0.887,0.983,231,63,1,9,155,29,126,6,Very Positive,location,cleanliness
+31825683,austin,0.867,0.962,26,10,0,1,9,5,5,1,Very Positive,cleanliness,cleanliness
+1353633331859849521,nashville,-0.178,0.5,2,0,0,0,0,1,1,0,Neutral,host responsiveness,noise
+734851598384432592,chicago,0.779,0.932,74,21,2,11,40,12,33,5,Very Positive,location,cleanliness
+21473196,twin_cities,0.814,0.979,94,47,2,9,26,17,30,6,Very Positive,cleanliness,cleanliness
+24807188,twin_cities,0.847,0.984,61,30,0,5,23,11,35,3,Very Positive,host responsiveness,cleanliness
+5581705,seattle,0.82,0.948,172,42,8,12,115,30,53,10,Very Positive,location,cleanliness
+1326974292296804620,nashville,0.858,0.957,23,5,0,3,17,3,11,1,Very Positive,location,cleanliness
+21005127,twin_cities,0.761,0.96,397,156,3,33,174,37,83,44,Very Positive,location,cleanliness
+5900224,seattle,0.863,0.976,375,149,2,65,290,35,128,11,Very Positive,location,cleanliness
+46928633,seattle,0.847,1,8,1,0,0,3,2,4,1,Very Positive,host responsiveness,noise
+19213509,seattle,0.838,0.946,129,35,2,9,75,25,41,5,Very Positive,location,cleanliness
+22805603,austin,0.913,0.993,153,47,3,11,96,14,81,3,Very Positive,location,cleanliness
+608598477202259839,nashville,0.859,0.983,58,19,0,8,22,9,18,3,Very Positive,location,cleanliness
+12889332,austin,0.925,1,13,1,3,1,6,1,8,1,Very Positive,host responsiveness,wifi
+1219597171247393581,twin_cities,0.829,0.958,24,8,0,1,9,5,9,0,Very Positive,location,cleanliness
+40800170,twin_cities,0.884,1,135,42,2,11,88,16,39,2,Very Positive,location,cleanliness
+741160556347125472,twin_cities,0.845,1,25,13,0,1,8,1,12,0,Very Positive,cleanliness,cleanliness
+45610693,austin,0.867,0.986,347,111,3,26,187,51,188,23,Very Positive,host responsiveness,cleanliness
+1351749710907607221,chicago,0.771,1,20,6,0,0,4,2,10,2,Very Positive,host responsiveness,cleanliness
+819785499829050358,chicago,0.882,1,48,3,0,2,17,3,22,3,Very Positive,host responsiveness,noise
+1220161034781218400,nashville,0.889,1,16,7,0,0,12,0,6,1,Very Positive,location,cleanliness
+1206516925969649560,austin,0.637,0.889,9,2,0,0,5,1,0,0,Very Positive,location,cleanliness
+973861068087887577,austin,0.66,0.833,12,1,1,2,4,1,4,1,Very Positive,location,check-in
+36389447,twin_cities,0.837,0.982,226,69,4,20,125,31,76,19,Very Positive,location,cleanliness
+1008688651557147708,nashville,0.82,0.988,83,21,1,4,47,4,32,7,Very Positive,location,cleanliness
+721023418131839701,seattle,0.865,0.961,155,67,2,6,98,26,71,3,Very Positive,location,cleanliness
+6064690,twin_cities,0.854,0.976,42,7,1,1,20,9,10,2,Very Positive,location,noise
+994986020862444391,twin_cities,0.774,0.939,33,7,0,1,8,1,9,1,Very Positive,host responsiveness,cleanliness
+1135753826639293852,nashville,0.657,0.812,16,7,0,0,11,5,3,2,Very Positive,location,cleanliness
+44234449,chicago,0.798,0.96,223,62,4,32,156,16,61,12,Very Positive,location,cleanliness
+1333526311333789519,nashville,0.831,1,15,1,0,0,3,0,5,0,Very Positive,host responsiveness,cleanliness
+3432834,austin,0.902,0.994,318,35,3,19,207,50,174,13,Very Positive,location,noise
+1391361174237569422,nashville,0.827,1,16,4,0,3,9,6,7,0,Very Positive,location,noise
+5660373,austin,0.868,1,6,0,0,0,4,2,2,0,Very Positive,location,noise
+41381981,seattle,0.8,0.956,453,114,6,49,311,33,115,26,Very Positive,location,cleanliness
+43098894,chicago,0.5,0.727,11,2,0,0,4,1,1,1,Positive,location,cleanliness
+44459513,twin_cities,0.638,1,8,0,0,0,0,0,4,0,Very Positive,host responsiveness,noise
+968073385945143548,nashville,0.869,0.988,80,31,3,5,68,20,38,4,Very Positive,location,cleanliness
+890524341736089149,seattle,0.89,1,34,8,0,4,21,6,12,0,Very Positive,location,cleanliness
+20054707,nashville,0.763,0.936,125,40,1,12,82,11,30,10,Very Positive,location,cleanliness
+1110906038588331072,seattle,0.938,1,7,1,0,0,5,2,3,1,Very Positive,location,noise
+812430634530133743,austin,0.796,1,3,0,0,0,2,0,2,0,Very Positive,location,noise
+889692041011044112,twin_cities,0.905,1,24,5,0,0,16,6,11,1,Very Positive,location,noise
+917612454755858521,chicago,0.886,0.978,45,12,1,4,19,5,16,1,Very Positive,location,cleanliness
+51881507,nashville,0.734,0.938,32,12,0,1,16,3,12,0,Very Positive,location,cleanliness
+33363106,chicago,0.812,0.969,258,60,1,21,159,24,68,12,Very Positive,location,cleanliness
+16023993,nashville,0.859,0.981,593,152,7,52,250,78,296,40,Very Positive,host responsiveness,cleanliness
+830212417586995595,austin,0.904,0.966,29,8,1,3,21,6,16,0,Very Positive,location,cleanliness
+575512333582613275,nashville,0.664,0.833,6,0,0,0,3,0,4,0,Very Positive,host responsiveness,noise
+15554062,seattle,0.859,0.98,560,178,4,74,438,46,205,24,Very Positive,location,cleanliness
+785469105591142352,seattle,0.872,0.97,167,45,0,11,107,20,85,0,Very Positive,location,cleanliness
+20454673,chicago,0.836,0.934,227,40,3,17,137,12,96,12,Very Positive,location,cleanliness
+1162037483908231401,twin_cities,0.83,0.971,35,10,0,3,14,4,11,2,Very Positive,location,cleanliness
+5476443,austin,0.915,0.992,473,152,5,30,329,106,176,20,Very Positive,location,cleanliness
+899242050573007932,austin,0.887,1,55,21,0,1,33,13,18,1,Very Positive,location,cleanliness
+1004558995988702228,seattle,0.884,1,22,7,0,0,12,2,5,0,Very Positive,location,cleanliness
+1237658493444716616,austin,0.934,1,21,3,0,0,10,1,5,0,Very Positive,location,cleanliness
+53919043,seattle,0.877,1,67,24,1,2,36,9,22,1,Very Positive,location,cleanliness
+7257457,seattle,0.844,0.974,233,71,2,14,107,37,70,18,Very Positive,location,cleanliness
+31116686,seattle,0.745,0.951,103,32,4,6,51,15,31,4,Very Positive,location,cleanliness
+655104930835168783,seattle,0.825,0.962,183,30,3,22,122,13,62,8,Very Positive,location,cleanliness
+48862362,chicago,0.695,0.935,92,23,3,11,46,16,30,7,Very Positive,location,cleanliness
+53690426,nashville,0.853,0.99,105,38,0,11,64,36,26,3,Very Positive,location,cleanliness
+511624634102616537,austin,0.673,0.922,192,55,0,9,46,23,44,14,Very Positive,cleanliness,cleanliness
+587010605540888487,twin_cities,0.893,1,50,19,0,3,31,14,17,2,Very Positive,location,cleanliness
+53326418,austin,0.884,1,46,3,0,3,31,8,15,0,Very Positive,location,noise
+803699110387545248,nashville,0.888,0.986,74,25,0,3,40,11,30,2,Very Positive,location,cleanliness
+461404,austin,0.87,0.961,102,28,6,5,65,20,54,7,Very Positive,location,cleanliness
+45541107,twin_cities,0.887,0.992,125,35,3,13,98,29,35,5,Very Positive,location,cleanliness
+32934782,chicago,0.862,0.976,164,48,0,11,125,13,53,12,Very Positive,location,cleanliness
+1127649768503294698,seattle,0.827,0.963,27,16,0,0,13,4,9,2,Very Positive,cleanliness,cleanliness
+744942128301966811,austin,0.844,1,12,4,0,0,1,1,7,0,Very Positive,host responsiveness,cleanliness
+807163355662802523,austin,0.904,1,58,18,1,4,17,11,22,0,Very Positive,host responsiveness,cleanliness
+1104342174169050925,austin,0.936,1,15,7,1,0,8,2,8,2,Very Positive,location,cleanliness
+1286545046884173227,twin_cities,0.815,1,31,10,0,1,20,10,7,2,Very Positive,location,noise
+26259360,seattle,0.865,0.978,91,28,1,8,35,21,30,3,Very Positive,location,cleanliness
+5303366,austin,0.817,0.984,123,20,4,16,76,17,33,18,Very Positive,location,cleanliness
+674736390816097045,nashville,0.892,0.996,253,64,0,29,130,26,144,6,Very Positive,host responsiveness,cleanliness
+40423641,nashville,0.677,0.894,161,59,1,12,81,30,30,12,Very Positive,location,cleanliness
+51541560,austin,0.753,0.925,53,17,0,3,21,5,22,2,Very Positive,host responsiveness,cleanliness
+43461448,seattle,0.859,1,45,5,1,2,11,2,11,2,Very Positive,location,cleanliness
+18227140,austin,0.862,0.973,223,49,1,36,97,12,105,8,Very Positive,host responsiveness,cleanliness
+860528687748074242,twin_cities,0.677,0.879,33,8,0,1,5,2,11,3,Very Positive,host responsiveness,cleanliness
+797148074159970987,nashville,0.829,0.978,227,61,0,14,125,32,79,12,Very Positive,location,cleanliness
+756022165345239374,nashville,0.896,1,1,0,0,0,0,0,0,0,Very Positive,cleanliness,noise
+48326302,chicago,0.81,0.942,156,42,1,14,89,16,55,5,Very Positive,location,cleanliness
+1451632553884396128,chicago,0.751,1,3,0,0,0,2,0,1,0,Very Positive,location,noise
+1043037299632909338,twin_cities,0.893,1,11,2,0,0,5,1,7,1,Very Positive,host responsiveness,cleanliness
+1368458440880954913,austin,0.722,0.944,18,6,0,1,7,1,8,1,Very Positive,host responsiveness,cleanliness
+1204195407711054267,twin_cities,0.667,0.857,21,5,0,1,7,7,4,0,Very Positive,location,noise
+22142890,nashville,0.772,0.958,264,54,0,14,114,25,62,13,Very Positive,location,cleanliness
+1232531425812136979,nashville,0.532,0.844,32,8,0,4,4,3,4,6,Very Positive,cleanliness,cleanliness
+604990436506907334,austin,0.804,0.98,51,21,1,2,18,3,24,1,Very Positive,host responsiveness,cleanliness
+43861016,seattle,0.874,0.988,247,64,3,13,148,49,70,3,Very Positive,location,cleanliness
+1090135138140865658,austin,0.629,0.867,30,10,0,3,5,3,6,2,Very Positive,cleanliness,cleanliness
+1178979281510017157,chicago,0.652,0.84,25,4,1,0,5,2,8,1,Very Positive,host responsiveness,cleanliness
+39085203,austin,0.714,0.875,8,3,0,1,1,0,4,0,Very Positive,host responsiveness,cleanliness
+5195252,chicago,0.823,0.932,177,42,0,18,125,12,96,9,Very Positive,location,cleanliness
+20150138,nashville,0.859,0.976,254,78,2,10,159,23,79,6,Very Positive,location,cleanliness
+1283496938829963020,nashville,0.892,1,1,0,0,0,1,0,1,1,Very Positive,location,value
+910361024189460104,austin,0.774,0.913,115,37,2,15,69,9,32,6,Very Positive,location,cleanliness
+973522571011527362,twin_cities,0.723,0.97,33,9,0,2,5,4,15,1,Very Positive,host responsiveness,cleanliness
+1103876371566488784,twin_cities,0.808,0.963,27,9,0,4,7,3,10,4,Very Positive,host responsiveness,cleanliness
+1385099827880649738,nashville,0.409,0.667,3,0,0,0,2,0,2,0,Positive,location,noise
+34781110,seattle,0.812,1,26,14,0,2,16,7,9,0,Very Positive,location,cleanliness
+29481624,chicago,0.846,0.974,418,74,4,34,251,41,133,9,Very Positive,location,cleanliness
+777081569923692574,chicago,0.883,1,31,12,0,0,18,8,16,4,Very Positive,location,cleanliness
+15916842,austin,0.864,1,57,19,1,3,32,7,18,2,Very Positive,location,cleanliness
+645785693593444324,chicago,0.616,0.816,49,16,0,4,24,5,14,3,Very Positive,location,cleanliness
+734866721750281735,chicago,0.715,0.902,61,19,0,3,26,6,33,2,Very Positive,host responsiveness,cleanliness
+819195587406940751,twin_cities,0.823,0.957,46,4,1,3,20,4,12,3,Very Positive,location,noise
+52187857,seattle,0.787,0.967,121,30,3,13,78,20,25,6,Very Positive,location,cleanliness
+22865431,twin_cities,0.846,0.981,267,104,1,20,87,21,110,21,Very Positive,host responsiveness,cleanliness
+1106529970249465405,twin_cities,0.922,1,23,5,0,0,9,2,8,2,Very Positive,location,cleanliness
+1185524753016676346,seattle,0.876,1,55,32,1,3,36,11,13,1,Very Positive,location,cleanliness
+1266803324436983919,austin,0.862,1,16,0,0,0,5,1,3,0,Very Positive,location,noise
+30913064,austin,0.821,0.981,364,94,5,17,124,46,94,8,Very Positive,location,cleanliness
+17650826,twin_cities,0.886,0.989,91,21,0,2,25,13,20,3,Very Positive,location,cleanliness
+681519305828567013,twin_cities,0.776,0.968,31,10,0,1,8,2,15,1,Very Positive,host responsiveness,cleanliness
+689441688793190754,nashville,0.769,1,29,8,1,1,11,5,9,2,Very Positive,location,cleanliness
+1248374046767674932,chicago,0.398,0.6,15,2,0,2,3,2,0,0,Positive,location,noise
+1029875346059959190,austin,0.815,1,27,7,0,2,10,2,8,1,Very Positive,location,cleanliness
+53890462,twin_cities,0.766,0.943,105,15,3,6,70,17,26,5,Very Positive,location,noise
+53298186,seattle,0.812,0.952,83,26,3,7,30,17,49,5,Very Positive,host responsiveness,cleanliness
+657157049310004538,twin_cities,0.805,1,2,0,1,0,2,0,1,0,Very Positive,location,wifi
+1028973316785737478,twin_cities,0.814,0.938,16,5,0,1,11,3,0,0,Very Positive,location,cleanliness
+32284340,nashville,0.663,0.911,45,17,0,6,18,4,8,11,Very Positive,location,cleanliness
+51741865,chicago,0.849,1,43,15,0,5,30,4,12,1,Very Positive,location,cleanliness
+1429792947015178317,chicago,0.607,0.846,13,1,0,0,4,0,4,0,Very Positive,location,cleanliness
+1324869008149614987,twin_cities,0.886,1,12,6,0,2,3,3,5,0,Very Positive,cleanliness,cleanliness
+783398511113201777,nashville,0.795,0.98,50,10,0,1,11,4,18,1,Very Positive,host responsiveness,cleanliness
+1266061914630362916,chicago,0.838,1,2,0,0,0,1,0,1,1,Very Positive,location,value
+1328482316502513212,chicago,0.593,0.778,18,5,0,2,11,2,11,2,Very Positive,location,cleanliness
+49178167,twin_cities,0.888,1,9,2,0,2,4,0,3,0,Very Positive,location,cleanliness
+1124770932118114276,seattle,0.762,0.833,6,1,0,0,4,2,3,1,Very Positive,location,noise
+761583668741389597,austin,0.741,0.936,47,17,1,0,27,13,15,0,Very Positive,location,cleanliness
+694212528485944088,nashville,0.854,0.975,161,56,0,12,84,21,67,11,Very Positive,location,cleanliness
+51321919,nashville,0.84,0.965,170,41,0,14,103,17,68,10,Very Positive,location,cleanliness
+668895842634640684,seattle,0.854,0.972,109,25,1,6,50,31,37,6,Very Positive,location,noise
+1439238205189338833,nashville,0.652,0.9,10,3,0,1,1,1,3,0,Very Positive,cleanliness,cleanliness
+21272387,chicago,0.871,0.987,309,93,2,24,208,40,101,10,Very Positive,location,cleanliness
+35284235,chicago,0.902,0.991,112,31,2,7,76,8,62,2,Very Positive,location,cleanliness
+814552655038522905,nashville,0.79,0.945,128,32,1,5,50,8,47,3,Very Positive,location,cleanliness
+36114524,seattle,0.873,0.971,205,66,1,10,120,45,92,2,Very Positive,location,cleanliness
+431258,nashville,0.872,0.976,549,185,8,42,340,39,166,40,Very Positive,location,cleanliness
+1089345411533442312,nashville,0.89,0.99,99,18,1,9,46,3,49,4,Very Positive,host responsiveness,cleanliness
+637710,seattle,0.872,0.988,171,14,1,12,114,17,85,5,Very Positive,location,noise
+26441475,seattle,0.923,1,32,13,0,2,23,8,10,1,Very Positive,location,cleanliness
+1219271646234591230,nashville,0.842,0.98,49,15,0,2,26,8,16,0,Very Positive,location,cleanliness
+903634462779222398,seattle,0.862,0.975,157,30,0,10,79,23,62,3,Very Positive,location,cleanliness
+1187795053550605866,chicago,0.97,1,1,1,0,0,0,0,1,0,Very Positive,cleanliness,cleanliness
+40140223,nashville,0.925,0.991,116,29,0,7,37,7,40,6,Very Positive,host responsiveness,cleanliness
+1073396643301722687,twin_cities,0.851,1,11,3,0,0,3,3,6,1,Very Positive,host responsiveness,noise
+1179030127948564589,nashville,0.557,0.769,13,4,1,2,7,2,5,1,Very Positive,location,cleanliness
+53092355,twin_cities,0.881,0.996,270,91,1,17,74,31,105,4,Very Positive,host responsiveness,cleanliness
+792956172139634710,nashville,0.822,0.978,180,50,0,18,117,13,69,7,Very Positive,location,cleanliness
+29662560,austin,0.861,1,61,24,0,4,49,10,27,2,Very Positive,location,cleanliness
+830695233106768907,austin,0.787,0.932,74,22,0,6,39,11,28,3,Very Positive,location,cleanliness
+26425599,seattle,0.831,0.975,316,70,3,16,146,23,129,9,Very Positive,location,cleanliness
+34932141,chicago,0.82,0.977,173,50,3,17,98,10,53,6,Very Positive,location,cleanliness
+48155297,nashville,0.731,0.939,181,46,1,19,103,33,39,32,Very Positive,location,cleanliness
+51751554,chicago,0.72,0.92,150,21,0,14,75,6,38,18,Very Positive,location,cleanliness
+21423300,twin_cities,0.882,0.973,146,21,1,5,59,9,46,3,Very Positive,location,cleanliness
+1443721073492492284,twin_cities,0.665,0.889,9,1,0,0,6,1,3,1,Very Positive,location,noise
+1340544865647686352,austin,0.618,1,4,0,0,0,2,3,1,0,Very Positive,location,noise
+15149053,chicago,0.808,0.942,156,58,3,14,72,23,73,5,Very Positive,host responsiveness,cleanliness
+42684529,twin_cities,0.904,1,151,49,1,8,85,11,60,1,Very Positive,location,cleanliness
+38330774,twin_cities,0.731,1,6,0,0,0,2,0,4,0,Very Positive,host responsiveness,noise
+1291296664921974255,austin,0.837,1,13,4,0,0,5,1,6,1,Very Positive,host responsiveness,cleanliness
+48132326,nashville,0.722,0.922,77,28,2,6,19,4,25,6,Very Positive,cleanliness,cleanliness
+1368849009700886691,nashville,0.861,1,39,16,0,2,16,2,13,0,Very Positive,cleanliness,cleanliness
+47156486,austin,0.857,0.981,211,55,2,18,101,23,90,7,Very Positive,location,cleanliness
+825940,austin,0.927,0.984,62,26,3,7,41,14,49,3,Very Positive,host responsiveness,cleanliness
+49468223,nashville,0.879,0.987,226,85,3,16,131,42,45,6,Very Positive,location,cleanliness
+9887142,seattle,0.839,0.977,218,119,4,17,108,46,67,11,Very Positive,cleanliness,cleanliness
+24332190,chicago,0.83,0.981,103,33,1,6,31,8,37,6,Very Positive,host responsiveness,cleanliness
+1456755840054515564,austin,0.884,1,4,3,1,2,3,0,2,0,Very Positive,cleanliness,cleanliness
+975568431939563480,seattle,0.811,0.958,24,14,0,3,12,3,5,3,Very Positive,cleanliness,cleanliness
+19553691,seattle,0.847,0.967,61,24,0,8,39,22,28,4,Very Positive,location,cleanliness
+7360731,chicago,0.865,1,25,6,0,2,10,3,12,1,Very Positive,host responsiveness,cleanliness
+545636290238959308,seattle,0.87,0.98,51,14,2,3,32,9,28,1,Very Positive,location,cleanliness
+638904542538427260,austin,0.869,0.985,133,40,5,13,65,28,52,2,Very Positive,location,cleanliness
+1304606690862941297,chicago,0.717,0.9,20,3,0,1,8,1,9,3,Very Positive,host responsiveness,cleanliness
+16982090,nashville,0.768,0.945,476,135,6,58,375,51,127,23,Very Positive,location,cleanliness
+1389486742405462908,austin,0.802,1,3,0,0,0,1,0,1,0,Very Positive,location,noise
+681052134870602809,twin_cities,0.857,1,12,2,0,0,7,1,1,1,Very Positive,location,cleanliness
+850768438307292614,nashville,0.887,0.981,52,9,0,4,16,5,24,0,Very Positive,host responsiveness,cleanliness
+844894728189359109,austin,0.89,0.99,100,22,0,4,65,9,44,4,Very Positive,location,cleanliness
+23394896,austin,0.874,1,46,7,0,3,26,4,20,1,Very Positive,location,cleanliness
+27047473,nashville,0.887,1,182,42,1,7,89,13,62,3,Very Positive,location,cleanliness
+675157878765516286,nashville,0.669,0.846,13,5,0,0,3,2,0,0,Very Positive,cleanliness,cleanliness
+15832847,seattle,0.768,0.946,185,42,2,15,130,27,68,8,Very Positive,location,cleanliness
+5117490,chicago,0.87,0.975,199,78,6,26,119,26,124,8,Very Positive,host responsiveness,cleanliness
+33667922,chicago,0.704,0.898,118,42,1,4,64,10,33,5,Very Positive,location,cleanliness
+639745550659737701,chicago,0.847,0.96,100,33,1,8,58,11,39,3,Very Positive,location,cleanliness
+1421370289168923550,twin_cities,0.721,1,8,1,0,0,5,2,6,0,Very Positive,host responsiveness,noise
+1247776787222705941,nashville,0.7,0.905,21,7,0,3,7,5,11,2,Very Positive,host responsiveness,cleanliness
+1168832383198255511,seattle,0.853,1,29,2,0,2,21,2,15,0,Very Positive,location,noise
+1061059907241759502,chicago,0.821,1,5,0,0,2,2,0,2,0,Very Positive,check-in,check-in
+32284142,nashville,0.598,0.8,20,9,0,1,12,4,4,2,Very Positive,location,cleanliness
+919590271499393720,seattle,0.899,1,96,30,1,14,71,18,26,2,Very Positive,location,cleanliness
+54397466,seattle,0.737,0.943,106,18,0,7,39,17,37,7,Very Positive,location,cleanliness
+1084387841564229775,austin,0.848,0.952,21,8,0,1,17,2,2,1,Very Positive,location,cleanliness
+14855437,seattle,0.852,0.985,135,58,2,10,65,22,66,6,Very Positive,host responsiveness,cleanliness
+51347437,chicago,0.636,0.846,78,20,0,9,26,14,41,5,Very Positive,host responsiveness,cleanliness
+28466540,seattle,0.833,0.967,304,84,3,37,201,37,117,16,Very Positive,location,cleanliness
+36835843,chicago,0.734,0.905,21,5,0,0,9,2,12,0,Very Positive,host responsiveness,cleanliness
+1175562326776553990,seattle,0.532,0.762,42,3,0,5,11,11,11,6,Very Positive,location,noise
+1061562304886176439,chicago,0.699,0.885,61,14,0,5,33,10,15,4,Very Positive,location,cleanliness
+1260436774384697745,chicago,0.853,1,33,8,0,1,6,4,11,1,Very Positive,host responsiveness,cleanliness
+53155851,twin_cities,0.584,0.844,77,15,2,8,30,6,24,6,Very Positive,location,cleanliness
+23646000,nashville,0.857,1,88,25,0,7,42,7,17,4,Very Positive,location,cleanliness
+53263324,seattle,0.752,0.95,139,44,1,12,56,16,40,4,Very Positive,location,cleanliness
+46857102,austin,0.757,0.92,75,16,2,7,47,2,23,2,Very Positive,location,cleanliness
+1158997193799974103,nashville,0.617,0.9,50,18,0,6,16,4,9,9,Very Positive,cleanliness,cleanliness
+33286578,seattle,0.865,0.992,133,56,1,13,72,19,30,5,Very Positive,location,cleanliness
+42390679,austin,0.828,0.984,254,41,5,23,136,29,73,13,Very Positive,location,cleanliness
+10100747,chicago,0.73,0.898,450,80,7,36,175,35,116,68,Very Positive,location,cleanliness
+25969105,twin_cities,0.825,0.974,39,11,1,1,20,10,12,2,Very Positive,location,cleanliness
+47089491,twin_cities,0.878,1,115,36,1,5,20,28,22,4,Very Positive,cleanliness,cleanliness
+1272767641979107945,twin_cities,0.889,1,13,1,0,0,4,1,4,0,Very Positive,location,noise
+1294969521362782302,austin,0.887,1,21,6,0,2,9,5,11,0,Very Positive,host responsiveness,cleanliness
+1481437836015458242,austin,0.783,1,6,1,0,0,1,0,2,0,Very Positive,host responsiveness,cleanliness
+988270336696414238,twin_cities,0.742,0.9,10,1,0,0,3,0,4,0,Very Positive,host responsiveness,cleanliness
+22397026,chicago,0.865,0.99,102,41,2,6,64,7,43,6,Very Positive,location,cleanliness
+648394936867370521,twin_cities,0.792,0.955,22,5,0,1,8,2,5,1,Very Positive,location,cleanliness
+49262712,seattle,0.733,0.936,264,84,3,25,116,50,56,55,Very Positive,location,cleanliness
+887657375154296515,chicago,0.756,0.91,67,17,2,7,30,11,28,4,Very Positive,location,cleanliness
+656071664371697729,seattle,0.862,0.983,119,34,1,5,57,16,38,0,Very Positive,location,cleanliness
+53548353,twin_cities,0.832,1,18,3,1,1,12,4,8,0,Very Positive,location,noise
+28365055,nashville,0.74,0.95,141,39,0,5,91,11,33,16,Very Positive,location,cleanliness
+868960031210515615,seattle,0.717,0.926,149,45,1,20,66,11,43,11,Very Positive,location,cleanliness
+1009372435397069281,twin_cities,0.81,0.917,24,5,1,2,16,5,13,1,Very Positive,location,noise
+44390779,nashville,0.855,0.974,77,24,1,4,53,9,27,1,Very Positive,location,cleanliness
+848831962420280944,seattle,0.802,0.963,81,12,2,4,47,7,25,8,Very Positive,location,cleanliness
+3083343,chicago,0.853,0.963,161,37,2,19,111,25,89,3,Very Positive,location,cleanliness
+838689973912642220,chicago,0.778,0.939,33,6,0,3,16,2,15,3,Very Positive,location,cleanliness
+43450336,nashville,0.755,0.946,167,51,0,12,83,14,51,11,Very Positive,location,cleanliness
+919745034203748181,nashville,0.862,0.97,134,31,0,11,78,9,54,5,Very Positive,location,cleanliness
+6991188,seattle,0.829,0.959,439,107,11,37,258,98,183,17,Very Positive,location,cleanliness
+1237268646973867171,seattle,0.873,1,11,4,0,1,6,2,6,1,Very Positive,location,cleanliness
+899984097882945127,twin_cities,0.761,0.956,68,17,0,5,41,9,18,1,Very Positive,location,cleanliness
+942734458406556730,twin_cities,0.867,0.957,23,2,0,0,7,3,8,1,Very Positive,host responsiveness,noise
+44672180,nashville,0.811,0.967,123,34,0,11,64,8,33,5,Very Positive,location,cleanliness
+52604558,twin_cities,0.745,0.905,42,18,0,2,24,7,10,12,Very Positive,location,cleanliness
+38904250,nashville,0.808,0.964,250,57,0,19,177,31,54,10,Very Positive,location,cleanliness
+25191782,chicago,0.801,0.941,219,54,1,21,111,19,104,11,Very Positive,location,cleanliness
+43435358,nashville,0.837,0.97,169,52,3,15,121,24,58,7,Very Positive,location,cleanliness
+1101550689277548810,twin_cities,0.883,1,24,7,0,1,17,2,6,0,Very Positive,location,cleanliness
+916286072933353981,seattle,0.815,0.969,64,14,0,6,47,10,18,3,Very Positive,location,cleanliness
+833411324472756978,chicago,0.831,1,11,3,0,0,4,2,6,1,Very Positive,host responsiveness,cleanliness
+590305946058064322,nashville,0.842,0.973,150,71,0,11,80,23,63,6,Very Positive,location,cleanliness
+1028405732246193241,seattle,0.876,0.976,82,14,0,5,34,14,35,1,Very Positive,host responsiveness,noise
+1131395862436054889,austin,0.811,1,16,4,1,0,10,3,7,3,Very Positive,location,cleanliness
+712370100559572979,twin_cities,0.817,0.967,61,5,0,0,29,3,4,6,Very Positive,location,value
+343889,austin,0.834,0.953,43,2,2,2,32,10,23,8,Very Positive,location,noise
+18630803,seattle,0.878,0.984,319,124,7,28,175,74,94,18,Very Positive,location,cleanliness
+868983390120677039,seattle,0.756,0.946,149,47,0,13,57,10,46,12,Very Positive,location,cleanliness
+53888431,seattle,0.894,0.973,37,4,0,2,20,6,10,0,Very Positive,location,noise
+617449893664696358,chicago,0.84,0.971,35,8,0,3,24,15,15,0,Very Positive,location,noise
+22751134,austin,0.675,0.857,35,7,0,3,9,4,17,6,Very Positive,host responsiveness,cleanliness
+21162778,twin_cities,0.824,0.951,81,13,0,2,45,6,31,3,Very Positive,location,cleanliness
+1363941100937793974,nashville,0.693,1,2,1,0,0,1,0,0,0,Very Positive,cleanliness,cleanliness
+858142479216612398,twin_cities,0.905,1,28,8,1,0,9,2,15,0,Very Positive,host responsiveness,cleanliness
+1429683444432323073,chicago,0.606,0.818,11,2,0,1,3,1,4,0,Very Positive,host responsiveness,cleanliness
+783238672519117197,twin_cities,0.788,1,23,7,0,0,6,3,8,0,Very Positive,host responsiveness,cleanliness
+6424881,nashville,0.909,1,204,25,2,9,73,32,103,7,Very Positive,host responsiveness,noise
+21785950,nashville,0.862,0.988,84,15,2,6,51,17,26,3,Very Positive,location,noise
+6245498,seattle,0.84,0.969,390,85,7,30,237,81,101,20,Very Positive,location,cleanliness
+1379003684919887184,austin,0.772,0.903,31,6,0,2,21,1,13,5,Very Positive,location,cleanliness
+6703006,nashville,0.827,0.958,311,44,2,19,156,30,118,9,Very Positive,location,cleanliness
+52506018,nashville,0.816,0.983,174,65,3,4,71,18,51,10,Very Positive,location,cleanliness
+1092775753097080651,nashville,0.877,1,39,17,1,5,18,9,9,0,Very Positive,location,cleanliness
+873398619573406008,seattle,0.812,1,42,9,1,3,27,4,14,2,Very Positive,location,cleanliness
+712453913018677418,chicago,0.863,1,6,0,0,0,5,0,4,0,Very Positive,location,noise
+1175376253540545746,twin_cities,0.835,0.973,37,9,1,0,13,2,17,1,Very Positive,host responsiveness,cleanliness
+695710250281871793,seattle,0.868,0.989,92,40,0,3,42,14,30,2,Very Positive,location,cleanliness
+624309889754626864,seattle,0.715,0.962,79,9,0,9,49,6,24,2,Very Positive,location,cleanliness
+1343072837833620062,austin,0.786,0.933,15,2,0,0,5,1,7,0,Very Positive,host responsiveness,cleanliness
+4286182,seattle,0.877,0.99,299,81,4,20,195,47,58,5,Very Positive,location,cleanliness
+991442188597312186,austin,0.83,0.969,98,20,3,3,52,9,36,3,Very Positive,location,cleanliness
+745004823798209785,chicago,0.868,1,16,7,1,1,8,3,12,1,Very Positive,host responsiveness,cleanliness
+556669257621844060,twin_cities,0.88,0.958,48,14,2,0,12,7,11,1,Very Positive,cleanliness,cleanliness
+15634836,nashville,0.843,0.977,345,148,3,21,171,56,123,16,Very Positive,location,cleanliness
+1363993249710016814,austin,0.76,0.889,9,6,0,1,6,1,3,1,Very Positive,cleanliness,cleanliness
+800664462385506301,austin,0.623,0.75,8,4,0,0,5,1,1,0,Very Positive,location,cleanliness
+1199302285183032820,seattle,0.634,0.913,23,4,1,1,10,3,7,2,Very Positive,location,cleanliness
+27553317,chicago,0.763,0.945,271,91,4,29,127,18,65,25,Very Positive,location,cleanliness
+48157076,nashville,0.737,0.946,222,72,3,22,112,42,38,31,Very Positive,location,cleanliness
+17746482,twin_cities,0.807,0.971,279,104,3,21,90,60,147,28,Very Positive,host responsiveness,cleanliness
+1441383654081278817,twin_cities,0.736,1,5,3,0,0,3,1,2,0,Very Positive,cleanliness,cleanliness
+590045319275143627,nashville,0.911,0.989,94,40,1,6,68,8,34,3,Very Positive,location,cleanliness
+685303839668013059,nashville,0.839,1,15,3,1,2,7,0,4,2,Very Positive,location,cleanliness
+1143594641768324493,nashville,0.7,0.889,18,5,0,5,10,4,2,2,Very Positive,location,cleanliness
+1360283485081887262,nashville,0.602,0.867,15,6,1,1,10,0,4,1,Very Positive,location,cleanliness
+52269776,austin,0.771,0.972,36,7,1,2,13,6,14,2,Very Positive,host responsiveness,cleanliness
+1433510363260068070,chicago,0.843,0.957,23,12,0,1,8,1,10,0,Very Positive,cleanliness,cleanliness
+21817363,chicago,0.803,0.954,435,142,1,27,180,43,145,27,Very Positive,location,cleanliness
+1313412271576139184,austin,0.909,1,11,3,0,2,3,2,8,0,Very Positive,host responsiveness,cleanliness
+552079972521813409,austin,0.84,0.959,171,50,1,14,35,18,75,2,Very Positive,host responsiveness,cleanliness
+51969660,twin_cities,0.843,0.975,199,59,0,14,53,26,68,1,Very Positive,host responsiveness,cleanliness
+1224945780627591665,twin_cities,0.786,0.947,19,2,2,3,7,3,10,0,Very Positive,host responsiveness,noise
+39034225,nashville,0.846,0.972,215,62,0,18,136,16,59,10,Very Positive,location,cleanliness
+1488592710926000066,nashville,0.896,1,8,2,0,0,3,0,3,2,Very Positive,location,cleanliness
+42820658,austin,0.771,0.962,52,11,1,2,15,4,20,4,Very Positive,host responsiveness,cleanliness
+966148804844532645,chicago,0.937,1,6,2,0,2,4,0,3,0,Very Positive,location,cleanliness
+1292289151201779134,twin_cities,0.63,0.833,36,20,0,4,9,4,8,1,Very Positive,cleanliness,cleanliness
+14664334,nashville,0.762,0.947,433,117,4,39,207,31,103,26,Very Positive,location,cleanliness
+958953616484288299,twin_cities,0.845,0.965,86,20,0,0,19,8,17,3,Very Positive,cleanliness,cleanliness
+1128386497694072210,twin_cities,0.976,1,1,1,0,0,1,0,1,0,Very Positive,cleanliness,cleanliness
+1045166488520032249,twin_cities,0.842,0.967,30,14,1,1,13,2,17,0,Very Positive,host responsiveness,cleanliness
+554518946592049995,austin,0.863,0.984,129,36,1,11,86,10,55,0,Very Positive,location,cleanliness
+14068188,austin,0.7,1,9,0,0,0,3,0,1,0,Very Positive,location,noise
+934140386912459010,nashville,0.89,1,26,6,0,6,12,4,14,0,Very Positive,host responsiveness,cleanliness
+17907547,austin,0.812,0.984,257,94,6,27,154,43,59,26,Very Positive,location,cleanliness
+582334231671073870,austin,0.797,0.943,159,47,3,5,78,15,50,2,Very Positive,location,cleanliness
+21250914,twin_cities,0.88,0.994,154,50,2,1,32,28,32,2,Very Positive,cleanliness,cleanliness
+14220861,austin,0.887,1,21,6,0,0,10,5,17,2,Very Positive,host responsiveness,cleanliness
+82439,twin_cities,0.836,0.974,77,14,0,3,48,12,35,5,Very Positive,location,cleanliness
+1275430320796756212,nashville,0.889,1,11,4,0,1,6,1,5,0,Very Positive,location,cleanliness
+1031604486004704917,austin,0.834,1,10,1,0,0,1,1,5,1,Very Positive,host responsiveness,noise
+1340934215903377888,nashville,0.922,1,20,8,0,1,8,5,7,0,Very Positive,cleanliness,cleanliness
+45015102,nashville,0.709,0.938,113,24,0,7,49,6,33,3,Very Positive,location,cleanliness
+1392425117170042168,chicago,0.884,1,33,15,2,6,19,5,9,1,Very Positive,location,cleanliness
+1190480706538312158,nashville,0.824,0.941,34,8,0,2,11,2,13,1,Very Positive,host responsiveness,cleanliness
+1305859865915531793,austin,0.862,1,9,2,0,1,8,1,0,0,Very Positive,location,cleanliness
+7150377,twin_cities,0.847,1,13,4,0,0,8,2,3,0,Very Positive,location,cleanliness
+39110341,austin,0.74,0.949,431,131,2,41,233,46,100,28,Very Positive,location,cleanliness
+17046910,austin,0.909,1,17,6,0,2,9,3,10,0,Very Positive,host responsiveness,cleanliness
+47822303,seattle,0.572,1,1,0,0,0,0,0,1,0,Very Positive,host responsiveness,noise
+43345609,nashville,0.827,0.981,161,54,2,19,105,5,48,6,Very Positive,location,cleanliness
+969159516611516032,chicago,0.676,0.896,67,19,0,6,15,10,28,9,Very Positive,host responsiveness,cleanliness
+43594534,chicago,0.812,1,9,2,0,0,5,3,2,0,Very Positive,location,noise
+41482843,nashville,0.89,0.979,95,16,0,6,46,5,45,1,Very Positive,location,cleanliness
+1328973525535659334,twin_cities,0.907,0.976,42,20,2,4,38,8,13,1,Very Positive,location,cleanliness
+32312615,nashville,0.684,0.903,124,44,1,15,53,11,23,25,Very Positive,location,cleanliness
+662304755661101274,austin,0.817,0.955,110,29,1,8,30,14,36,4,Very Positive,host responsiveness,cleanliness
+24094071,nashville,0.817,0.98,507,171,2,40,243,54,142,26,Very Positive,location,cleanliness
+1247038461966123298,twin_cities,0.887,1,2,0,0,0,1,0,1,0,Very Positive,location,noise
+1052124489841818202,nashville,0.852,1,98,27,0,7,35,6,45,8,Very Positive,host responsiveness,cleanliness
+3469590,seattle,0.945,1,44,24,1,4,30,8,22,3,Very Positive,location,cleanliness
+613728741973486179,seattle,0.784,0.953,170,54,1,19,108,12,54,5,Very Positive,location,cleanliness
+1236402795557787863,seattle,0.924,1,28,6,0,1,10,3,18,0,Very Positive,host responsiveness,cleanliness
+1131327955732191309,seattle,0.763,0.93,57,21,0,7,25,12,26,2,Very Positive,host responsiveness,cleanliness
+842749728060157787,chicago,0.69,0.907,75,21,0,3,34,9,31,2,Very Positive,location,cleanliness
+1147917063862644830,twin_cities,0.846,1,34,10,1,4,9,2,21,2,Very Positive,host responsiveness,cleanliness
+43149502,nashville,0.83,0.971,209,66,3,9,148,28,41,7,Very Positive,location,cleanliness
+8826075,austin,0.826,0.909,33,4,2,6,21,4,24,0,Very Positive,host responsiveness,check-in
+1440618230326061243,nashville,0.808,0.9,10,1,0,0,6,1,3,1,Very Positive,location,noise
+897188690689950812,seattle,0.773,0.933,119,36,2,4,49,7,43,9,Very Positive,location,cleanliness
+46276229,chicago,0.666,0.9,50,16,0,5,16,8,22,0,Very Positive,host responsiveness,cleanliness
+22669967,twin_cities,0.827,0.968,156,51,3,4,59,32,60,5,Very Positive,host responsiveness,cleanliness
+52730713,nashville,0.91,0.993,151,65,0,11,81,25,50,3,Very Positive,location,cleanliness
+928927479593652907,nashville,0.842,0.988,84,36,1,12,58,9,14,1,Very Positive,location,cleanliness
+1091492067713973453,nashville,0.774,0.98,51,16,0,4,23,2,20,6,Very Positive,location,cleanliness
+44234840,chicago,0.795,0.964,193,41,2,24,125,9,45,10,Very Positive,location,cleanliness
+844199899790461053,chicago,0.726,0.894,160,55,3,10,54,23,48,14,Very Positive,cleanliness,cleanliness
+1178930298154936426,twin_cities,0.88,1,19,3,0,1,8,0,5,1,Very Positive,location,cleanliness
+22451703,austin,0.742,0.897,39,16,0,2,13,6,17,3,Very Positive,host responsiveness,cleanliness
+16944642,nashville,0.847,0.988,254,88,2,23,152,68,74,9,Very Positive,location,cleanliness
+1385122969182216985,seattle,0.847,0.935,31,7,0,0,11,6,17,0,Very Positive,host responsiveness,cleanliness
+28509493,nashville,0.725,0.937,221,47,3,16,126,30,54,13,Very Positive,location,cleanliness
+15299612,seattle,0.852,0.973,338,108,11,29,252,79,73,11,Very Positive,location,cleanliness
+1402304675423265092,chicago,0.637,0.857,7,2,0,1,6,3,1,1,Very Positive,location,noise
+1375361431416163691,twin_cities,0.585,0.941,17,3,0,1,5,0,2,2,Very Positive,location,cleanliness
+1330477162608306359,nashville,0.859,0.979,47,14,0,2,27,9,12,1,Very Positive,location,cleanliness
+17096312,twin_cities,0.842,0.976,292,126,4,16,153,44,65,11,Very Positive,location,cleanliness
+613836997434550887,chicago,0.655,0.863,124,23,5,10,37,13,35,10,Very Positive,location,cleanliness
+1422584124280396148,nashville,0.879,1,8,4,2,0,1,0,5,0,Very Positive,host responsiveness,cleanliness
+1077014282388377788,austin,0.877,1,8,1,0,1,5,1,3,0,Very Positive,location,noise
+27824875,twin_cities,0.817,0.979,375,82,1,12,229,27,47,11,Very Positive,location,cleanliness
+1139353154533647155,twin_cities,0.813,0.957,23,5,0,1,9,5,12,1,Very Positive,host responsiveness,noise
+46864527,austin,0.873,0.947,19,3,0,0,11,1,4,0,Very Positive,location,cleanliness
+834985028869992919,chicago,0.752,0.914,139,27,2,12,106,24,44,4,Very Positive,location,cleanliness
+33305391,twin_cities,0.817,0.974,268,124,2,22,91,29,81,37,Very Positive,cleanliness,cleanliness
+1329029378470326839,nashville,0.933,1,11,2,0,1,4,1,4,1,Very Positive,location,cleanliness
+15700294,seattle,0.898,1,27,4,0,4,19,4,10,1,Very Positive,location,noise
+50358838,austin,0.809,0.972,177,41,1,3,129,8,33,7,Very Positive,location,cleanliness
+8902327,seattle,0.883,0.982,387,128,2,30,221,48,85,14,Very Positive,location,cleanliness
+33307346,twin_cities,0.819,0.97,197,89,0,13,73,15,67,18,Very Positive,cleanliness,cleanliness
+1305255116776974970,seattle,0.778,1,15,4,1,0,6,2,2,1,Very Positive,location,cleanliness
+1163861112796505916,twin_cities,0.919,1,29,10,0,1,11,1,7,2,Very Positive,location,cleanliness
+33664380,austin,0.898,1,94,31,2,5,69,13,27,0,Very Positive,location,cleanliness
+1313075251274059280,austin,0.79,0.957,46,9,0,1,12,3,17,0,Very Positive,host responsiveness,cleanliness
+1257941409344025697,nashville,0.817,0.947,19,5,0,0,10,4,0,1,Very Positive,location,cleanliness
+586311462195536658,seattle,0.893,0.986,71,35,4,3,21,11,34,4,Very Positive,cleanliness,cleanliness
+1364551576447915079,austin,0.877,0.958,24,5,0,1,11,4,8,0,Very Positive,location,cleanliness
+640482071159479792,austin,0.837,0.973,224,60,2,16,73,34,48,8,Very Positive,location,cleanliness
+1242010654074436372,austin,0.863,1,36,9,0,2,28,4,5,1,Very Positive,location,cleanliness
+895554734730702580,chicago,0.702,0.891,46,13,0,4,24,11,23,2,Very Positive,location,cleanliness
+24210520,austin,0.948,1,8,2,0,3,7,0,4,0,Very Positive,location,check-in
+9907337,seattle,0.887,0.994,167,74,5,10,127,31,46,5,Very Positive,location,cleanliness
+983063795887170320,austin,0.773,0.933,60,19,0,4,47,7,19,4,Very Positive,location,cleanliness
+949305294902606277,austin,0.583,0.857,7,3,0,1,2,1,2,0,Very Positive,cleanliness,cleanliness
+963701505055635229,chicago,0.869,1,1,0,0,0,1,0,0,0,Very Positive,location,noise
+854342418431237543,nashville,0.849,0.966,58,20,0,3,30,8,26,2,Very Positive,location,cleanliness
+30658935,nashville,0.852,0.976,211,72,0,11,107,19,50,10,Very Positive,location,cleanliness
+1435064305846460904,twin_cities,0.919,1,13,5,0,0,3,6,5,1,Very Positive,cleanliness,noise
+878380466198144072,nashville,0.813,0.985,65,19,0,4,40,6,23,3,Very Positive,location,cleanliness
+1482766598374682618,seattle,0.889,1,4,2,1,0,2,1,2,0,Very Positive,cleanliness,cleanliness
+23076088,chicago,0.555,0.812,16,2,0,1,13,3,4,2,Very Positive,location,noise
+986135122407286693,twin_cities,0.894,1,103,52,1,8,53,11,44,1,Very Positive,location,cleanliness
+7800143,seattle,0.901,0.985,67,19,2,4,45,10,35,1,Very Positive,location,cleanliness
+624839152530216936,chicago,0.782,0.974,114,23,1,9,43,9,52,4,Very Positive,host responsiveness,cleanliness
+1134351668237383955,chicago,0.865,0.974,76,28,0,3,46,14,24,2,Very Positive,location,cleanliness
+851979914197305934,twin_cities,0.88,1,78,26,0,4,31,8,25,4,Very Positive,location,cleanliness
+669747938894499321,seattle,0.889,0.978,90,38,1,6,42,8,29,1,Very Positive,location,cleanliness
+734332860198688565,twin_cities,0.894,1,5,2,1,0,2,1,2,0,Very Positive,cleanliness,cleanliness
+951615014529972539,seattle,0.769,0.91,144,53,2,10,60,19,39,1,Very Positive,location,cleanliness
+1252911199122410582,nashville,0.872,1,21,11,0,1,6,0,3,3,Very Positive,cleanliness,cleanliness
+755934562888126191,chicago,0.902,1,6,1,0,2,4,1,3,0,Very Positive,location,check-in
+21296745,nashville,0.904,1,116,33,4,9,85,40,35,5,Very Positive,location,noise
+24433183,seattle,0.857,0.984,124,43,3,9,82,36,62,6,Very Positive,location,cleanliness
+1158011489396183242,twin_cities,0.862,0.985,66,19,1,0,30,6,26,2,Very Positive,location,cleanliness
+1009583589043502210,nashville,0.877,0.975,122,30,0,10,72,12,57,2,Very Positive,location,cleanliness
+49598714,seattle,0.82,0.97,236,74,7,25,139,42,76,5,Very Positive,location,cleanliness
+671542965331525254,austin,0.875,0.97,33,12,0,3,23,7,19,1,Very Positive,location,cleanliness
+948073378669236963,chicago,0.726,0.873,79,15,1,4,40,13,21,6,Very Positive,location,cleanliness
+10411427,chicago,0.755,0.935,540,96,5,39,231,36,153,88,Very Positive,location,cleanliness
+18548210,nashville,0.833,0.977,391,165,2,40,222,95,99,30,Very Positive,location,cleanliness
+1050701125488034485,austin,0.819,0.947,19,4,0,1,12,1,8,0,Very Positive,location,cleanliness
+1401008423993732519,seattle,0.8,0.947,19,8,0,2,8,4,8,1,Very Positive,cleanliness,cleanliness
+2083878,nashville,0.829,0.974,738,333,12,74,510,113,233,51,Very Positive,location,cleanliness
+1105062660849703261,nashville,0.9,0.989,87,27,0,6,43,10,42,6,Very Positive,location,cleanliness
+1423262814997006353,seattle,0.869,0.971,34,4,0,3,21,7,22,1,Very Positive,host responsiveness,noise
+1213839350452978698,seattle,0.738,0.947,19,3,0,4,13,1,2,0,Very Positive,location,check-in
+52883230,twin_cities,0.83,1,19,10,0,1,9,3,5,2,Very Positive,cleanliness,cleanliness
+21191242,nashville,0.782,0.961,385,87,0,36,316,23,92,30,Very Positive,location,cleanliness
+1308812266434747413,chicago,0.636,0.762,21,6,0,1,7,4,10,1,Very Positive,host responsiveness,cleanliness
+54343005,twin_cities,0.829,0.98,49,12,0,1,42,5,11,0,Very Positive,location,cleanliness
+16602889,seattle,0.853,0.971,205,68,4,18,126,42,87,4,Very Positive,location,cleanliness
+1403405556192676515,chicago,0.784,0.947,19,4,0,2,8,4,7,4,Very Positive,location,noise
+1251530299674674006,twin_cities,0.912,1,14,2,0,0,13,0,8,0,Very Positive,location,cleanliness
+1392186309934702757,nashville,0.764,1,10,3,0,0,6,0,5,0,Very Positive,location,cleanliness
+49796935,seattle,0.34,0.75,8,5,0,2,4,2,3,1,Positive,cleanliness,cleanliness
+899292016907591427,chicago,0.861,1,36,15,1,3,20,5,14,1,Very Positive,location,cleanliness
+688607311212760824,nashville,0.807,0.964,196,61,3,15,102,43,79,3,Very Positive,location,cleanliness
+684178203144141156,nashville,0.848,0.988,83,27,0,3,32,4,28,2,Very Positive,location,cleanliness
+50489917,chicago,0.76,0.973,74,11,1,8,53,13,22,7,Very Positive,location,noise
+1501079629275660330,austin,0.956,1,1,0,0,0,1,1,0,0,Very Positive,location,noise
+37682465,nashville,0.792,0.977,518,210,6,48,173,97,142,33,Very Positive,cleanliness,cleanliness
+696576290163722477,austin,0.717,0.931,87,18,4,7,40,9,25,13,Very Positive,location,cleanliness
+1403144065183162274,chicago,0.676,0.875,56,13,1,6,33,19,15,5,Very Positive,location,noise
+22648434,twin_cities,0.902,1,121,41,2,3,37,6,56,3,Very Positive,host responsiveness,cleanliness
+699196003695152991,twin_cities,0.795,0.967,180,43,2,12,60,46,65,20,Very Positive,host responsiveness,noise
+27506626,austin,0.871,0.955,22,7,0,3,9,3,11,0,Very Positive,host responsiveness,cleanliness
+960494462913241037,twin_cities,0.784,0.976,42,19,0,1,14,3,14,2,Very Positive,cleanliness,cleanliness
+28411010,seattle,0.795,0.973,481,195,9,72,337,63,95,27,Very Positive,location,cleanliness
+1293553408964174246,nashville,0.813,0.966,29,8,1,4,10,6,13,4,Very Positive,host responsiveness,cleanliness
+46090808,chicago,0.632,0.874,87,22,0,5,49,16,15,5,Very Positive,location,cleanliness
+960125198046634086,twin_cities,0.913,1,14,1,0,1,3,3,6,2,Very Positive,host responsiveness,noise
+36523604,nashville,0.87,0.983,580,228,4,32,375,73,114,14,Very Positive,location,cleanliness
+34397966,seattle,0.736,0.921,101,49,1,7,57,12,44,6,Very Positive,location,cleanliness
+839825958820293878,austin,0.578,0.874,111,16,1,6,24,13,28,10,Very Positive,host responsiveness,cleanliness
+41455518,chicago,0.874,0.986,143,33,2,5,86,26,70,2,Very Positive,location,cleanliness
+49462631,chicago,0.79,0.943,123,26,2,13,93,11,41,10,Very Positive,location,cleanliness
+1237585457379773722,nashville,0.879,0.975,40,19,0,2,26,5,18,1,Very Positive,location,cleanliness
+1125602217328392808,nashville,0.865,1,52,23,0,2,22,4,23,3,Very Positive,cleanliness,cleanliness
+674612687669989407,nashville,0.881,0.986,69,7,0,1,49,6,29,1,Very Positive,location,cleanliness
+1074206129109420429,nashville,0.831,1,11,4,0,3,6,1,3,1,Very Positive,location,cleanliness
+964810506500269958,austin,0.787,0.93,43,16,1,4,22,4,18,4,Very Positive,location,cleanliness
+687215887081269359,nashville,0.874,0.975,80,27,0,3,35,4,30,3,Very Positive,location,cleanliness
+14696993,seattle,0.854,0.976,328,137,5,36,225,92,101,16,Very Positive,location,cleanliness
+1069591313246074302,austin,0.935,1,2,0,0,0,1,0,1,0,Very Positive,location,noise
+1199515572148369613,nashville,0.841,1,51,20,0,4,26,5,17,3,Very Positive,location,cleanliness
+23075059,seattle,0.827,0.972,422,93,5,58,296,36,161,19,Very Positive,location,cleanliness
+698533299582997817,seattle,0.807,0.954,65,3,2,3,29,8,40,1,Very Positive,host responsiveness,noise
+823115876105369681,twin_cities,0.722,0.891,46,8,0,3,25,2,9,2,Very Positive,location,cleanliness
+33690503,seattle,0.843,0.97,329,110,3,52,233,30,134,27,Very Positive,location,cleanliness
+1016001696775451898,seattle,0.782,1,32,10,0,0,11,9,11,1,Very Positive,location,cleanliness
+761071522423068825,chicago,0.569,0.833,6,4,0,2,2,1,3,1,Very Positive,cleanliness,cleanliness
+16641071,nashville,0.837,0.972,214,51,2,17,115,25,76,5,Very Positive,location,cleanliness
+631828424812033196,nashville,0.852,0.986,71,16,0,8,36,8,28,3,Very Positive,location,cleanliness
+1371908989755690626,nashville,0.777,0.929,28,12,0,5,19,2,14,1,Very Positive,location,cleanliness
+50874348,seattle,0.875,1,21,8,0,3,17,3,6,0,Very Positive,location,cleanliness
+6935687,austin,0.943,1,13,3,2,1,10,4,3,0,Very Positive,location,noise
+25555626,chicago,0.822,0.96,124,59,1,15,69,17,48,6,Very Positive,location,cleanliness
+46452459,seattle,0.809,0.962,212,74,2,12,107,46,50,11,Very Positive,location,cleanliness
+651709886023739183,seattle,0.894,0.98,49,16,0,4,31,7,24,0,Very Positive,location,cleanliness
+1021065797519433904,nashville,0.879,0.987,79,24,0,4,30,8,34,3,Very Positive,host responsiveness,cleanliness
+804231401422001274,twin_cities,0.85,0.973,37,6,0,1,7,8,11,0,Very Positive,host responsiveness,noise
+1331544240553650845,austin,0.865,1,14,4,0,0,8,5,4,1,Very Positive,location,noise
+1245111380885277377,chicago,0.705,0.857,35,9,1,3,20,4,15,1,Very Positive,location,cleanliness
+6659752,twin_cities,0.828,0.97,541,110,1,18,71,48,89,8,Very Positive,cleanliness,cleanliness
+22742704,twin_cities,0.814,0.97,429,76,6,37,284,41,158,37,Very Positive,location,cleanliness
+1475340162544315151,twin_cities,0.974,1,4,4,0,0,3,1,2,0,Very Positive,cleanliness,cleanliness
+51965920,nashville,0.832,0.972,144,61,0,11,87,24,46,6,Very Positive,location,cleanliness
+1112386758674521223,austin,0.758,0.909,11,2,0,0,4,0,5,1,Very Positive,host responsiveness,cleanliness
+28458232,nashville,0.911,1,5,0,0,0,2,0,4,0,Very Positive,host responsiveness,noise
+1078422875120073352,nashville,0.898,1,24,9,0,1,17,5,8,0,Very Positive,location,cleanliness
+1359402003955010702,nashville,0.502,0.75,8,4,0,0,4,1,2,1,Very Positive,cleanliness,cleanliness
+987043314473540383,seattle,0.92,1,16,7,1,1,8,4,10,0,Very Positive,host responsiveness,cleanliness
+1183324802752183235,chicago,0.695,0.857,28,8,0,1,6,1,15,1,Very Positive,host responsiveness,cleanliness
+1100874267727869720,seattle,0.854,0.97,67,23,1,4,40,11,20,0,Very Positive,location,cleanliness
+42201985,seattle,0.859,0.984,183,76,2,14,113,34,50,8,Very Positive,location,cleanliness
+762333397443084974,twin_cities,0.707,0.889,18,4,0,0,0,0,6,1,Very Positive,host responsiveness,cleanliness
+9863459,nashville,0.799,0.958,498,113,5,30,307,51,136,37,Very Positive,location,cleanliness
+6945901,chicago,0.791,0.937,79,24,2,7,49,16,19,3,Very Positive,location,cleanliness
+19673335,twin_cities,0.874,0.983,173,44,1,4,63,20,89,2,Very Positive,host responsiveness,cleanliness
+25458599,seattle,0.757,0.916,119,30,4,8,71,9,40,2,Very Positive,location,cleanliness
+651424520093981671,seattle,0.628,0.871,62,13,2,5,30,8,22,13,Very Positive,location,cleanliness
+554385076952526453,chicago,0.849,0.963,134,38,0,14,87,17,65,4,Very Positive,location,cleanliness
+20636515,twin_cities,0.859,0.989,174,24,2,7,45,32,32,1,Very Positive,location,noise
+1000721194054356613,twin_cities,0.894,1,2,1,0,0,1,0,1,0,Very Positive,cleanliness,cleanliness
+1127195798214609105,twin_cities,0.656,0.885,26,5,1,3,16,3,7,3,Very Positive,location,cleanliness
+947976911933784220,seattle,0.763,0.912,102,41,0,9,30,12,54,6,Very Positive,host responsiveness,cleanliness
+650133796102980973,nashville,0.735,0.909,11,4,1,4,6,0,3,3,Very Positive,location,cleanliness
+1381658476850665993,chicago,0.654,0.75,8,5,0,3,3,1,6,0,Very Positive,host responsiveness,cleanliness
+1110180960253860842,nashville,0.624,0.833,30,9,2,4,17,4,8,4,Very Positive,location,cleanliness
+24085799,chicago,0.558,0.796,206,45,5,12,88,31,43,52,Very Positive,location,value
+1456630106584525852,chicago,0.898,1,8,2,1,2,2,2,4,1,Very Positive,host responsiveness,noise
+675324739303021108,seattle,0.743,0.875,8,1,1,1,5,0,2,0,Very Positive,location,cleanliness
+659340735689050722,austin,0.794,1,26,9,1,2,8,5,14,1,Very Positive,host responsiveness,cleanliness
+29335099,austin,0.774,1,9,1,1,0,3,2,5,0,Very Positive,host responsiveness,noise
+956005013785068867,chicago,0.759,0.944,18,5,1,3,6,0,7,0,Very Positive,host responsiveness,cleanliness
+18412900,twin_cities,0.788,0.961,360,104,8,26,155,40,137,60,Very Positive,location,cleanliness
+6700201,nashville,0.864,1,60,10,4,5,36,13,18,4,Very Positive,location,noise
+1107605818669710648,nashville,0.84,1,6,2,0,0,4,0,4,1,Very Positive,location,cleanliness
+1100237032155559245,nashville,0.871,1,36,6,0,3,15,2,12,3,Very Positive,location,cleanliness
+48801924,seattle,0.625,1,1,0,0,0,0,0,0,0,Very Positive,cleanliness,noise
+730196221845706622,austin,0.883,1,30,7,0,2,6,0,18,2,Very Positive,host responsiveness,cleanliness
+895195572206403376,twin_cities,0.882,1,51,24,0,2,27,11,18,0,Very Positive,location,cleanliness
+644915249284328547,twin_cities,0.827,0.981,52,8,1,2,19,6,14,1,Very Positive,location,cleanliness
+1110189406879404783,twin_cities,0.89,1,25,6,0,1,5,1,10,0,Very Positive,host responsiveness,cleanliness
+1056678219679017531,nashville,0.834,0.984,61,18,0,3,37,7,12,3,Very Positive,location,cleanliness
+12379796,seattle,0.877,1,47,16,4,1,32,16,13,2,Very Positive,location,noise
+1145272634428660260,seattle,0.847,0.975,40,15,0,3,27,9,15,0,Very Positive,location,cleanliness
+732610563733385698,twin_cities,0.855,0.982,55,6,0,1,12,3,11,1,Very Positive,location,cleanliness
+878362061551147886,seattle,0.754,0.925,53,16,8,3,26,15,21,2,Very Positive,location,cleanliness
+797096274810305865,austin,0.76,1,2,0,0,0,1,0,0,0,Very Positive,location,noise
+965353400248263696,nashville,0.954,1,4,1,1,0,2,1,2,0,Very Positive,location,noise
+821908123345251930,twin_cities,0.884,0.982,55,15,0,0,31,12,25,2,Very Positive,location,cleanliness
+1305833231012157341,twin_cities,0.858,1,47,19,0,1,26,5,13,4,Very Positive,location,cleanliness
+895676852930345752,twin_cities,0.681,0.905,199,53,2,9,44,18,47,30,Very Positive,cleanliness,cleanliness
+1270272959428996631,austin,0.84,0.959,73,22,1,0,43,10,12,3,Very Positive,location,cleanliness
+1416248650096435090,chicago,0.814,1,2,0,0,0,1,0,1,0,Very Positive,location,noise
+15645175,twin_cities,0.839,0.963,219,48,7,16,135,23,82,12,Very Positive,location,cleanliness
+839964811373910046,twin_cities,0.882,1,22,4,0,2,9,6,6,2,Very Positive,location,noise
+764381859667559489,austin,0.819,1,10,2,1,0,5,2,3,0,Very Positive,location,noise
+1073362730570677543,chicago,0.615,0.896,48,13,1,5,30,8,11,10,Very Positive,location,cleanliness
+793611557583559548,austin,0.835,0.991,111,34,2,17,69,20,36,6,Very Positive,location,cleanliness
+50623833,austin,0.857,0.974,154,73,1,15,74,19,53,4,Very Positive,location,cleanliness
+899544156282323531,chicago,0.758,0.938,96,28,1,3,50,9,20,7,Very Positive,location,cleanliness
+12514055,twin_cities,0.854,0.97,100,28,1,9,68,7,25,2,Very Positive,location,cleanliness
+1188340633648374520,seattle,0.767,0.961,51,12,0,3,26,7,10,1,Very Positive,location,cleanliness
+1234852763076081606,nashville,0.916,0.98,49,22,0,8,29,5,27,6,Very Positive,location,cleanliness
+1202358268234958357,nashville,0.875,0.963,27,9,0,1,13,2,12,1,Very Positive,location,cleanliness
+1391527201443898210,austin,0.775,1,13,4,0,0,6,1,3,4,Very Positive,location,cleanliness
+766056605942339033,chicago,0.871,1,152,35,3,18,97,16,61,8,Very Positive,location,cleanliness
+1254492526420986578,seattle,0.833,0.962,52,16,0,3,29,4,20,0,Very Positive,location,cleanliness
+1401131295439958313,chicago,0.715,1,20,8,0,2,8,1,7,1,Very Positive,cleanliness,cleanliness
+32268160,nashville,0.812,0.968,217,72,3,28,170,28,58,23,Very Positive,location,cleanliness
+949922,austin,0.877,0.983,1268,157,7,44,294,84,347,35,Very Positive,host responsiveness,cleanliness
+14449619,chicago,0.871,0.982,334,77,0,29,178,11,187,7,Very Positive,host responsiveness,cleanliness
+861804993803642448,twin_cities,0.826,0.981,105,45,0,5,56,13,33,5,Very Positive,location,cleanliness
+800944315184661133,twin_cities,0.725,0.971,105,27,0,6,39,5,35,7,Very Positive,location,cleanliness
+580349956807861275,twin_cities,0.957,1,21,4,0,1,14,2,12,2,Very Positive,location,cleanliness
+2699594,nashville,0.85,0.982,274,51,3,17,206,51,103,16,Very Positive,location,noise
+49406615,seattle,0.911,0.977,43,8,1,1,28,8,26,0,Very Positive,location,noise
+966239523394517048,seattle,0.49,0.75,16,1,0,2,6,4,6,3,Positive,location,noise
+1211560870733786290,chicago,0.821,0.962,52,17,0,2,25,1,23,1,Very Positive,location,cleanliness
+943746775163164144,nashville,0.834,1,18,6,0,1,5,0,8,1,Very Positive,host responsiveness,cleanliness
+1187731812835614611,austin,0.722,0.936,47,7,1,2,20,6,11,1,Very Positive,location,cleanliness
+47334435,chicago,0.88,0.986,138,41,1,8,103,12,66,0,Very Positive,location,cleanliness
+1101793355261155740,twin_cities,0.884,1,51,11,0,2,17,3,18,0,Very Positive,host responsiveness,cleanliness
+38802306,austin,0.661,0.903,290,96,3,30,81,36,63,44,Very Positive,cleanliness,cleanliness
+53545941,austin,0.845,1,42,15,0,2,23,7,11,1,Very Positive,location,cleanliness
+1140697007733018665,twin_cities,0.852,1,14,1,0,0,0,0,6,1,Very Positive,host responsiveness,cleanliness
+642941622823561145,nashville,0.792,0.962,53,29,0,5,25,3,18,3,Very Positive,cleanliness,cleanliness
+1293155342356153571,nashville,0.824,1,10,4,0,1,4,1,4,0,Very Positive,cleanliness,cleanliness
+1170258262429514757,seattle,0.856,0.98,49,27,0,2,26,13,10,0,Very Positive,cleanliness,cleanliness
+22715967,seattle,0.928,0.99,199,83,3,24,148,25,82,5,Very Positive,location,cleanliness
+541742334983011345,seattle,0.876,0.987,78,16,0,2,56,9,24,1,Very Positive,location,cleanliness
+53815973,austin,0.806,0.97,99,18,1,2,52,15,35,1,Very Positive,location,cleanliness
+40263364,twin_cities,0.84,1,14,5,0,0,3,1,4,3,Very Positive,cleanliness,cleanliness
+15407769,seattle,0.867,0.98,459,155,2,17,239,121,123,11,Very Positive,location,cleanliness
+13141142,seattle,0.758,0.911,56,19,2,8,37,5,15,1,Very Positive,location,cleanliness
+1400906065390075150,seattle,0.984,1,1,0,0,0,1,0,1,0,Very Positive,location,noise
+947581269026310419,chicago,0.872,1,10,0,0,0,9,0,7,2,Very Positive,location,value
+1111184528616795599,seattle,0.665,0.909,11,3,1,1,5,4,5,1,Very Positive,location,noise
+1072627553915280997,nashville,0.479,0.5,2,0,0,0,0,0,0,0,Positive,cleanliness,noise
+1219558524003202334,austin,0.815,1,13,2,0,0,7,2,2,0,Very Positive,location,noise
+1290020484148379020,twin_cities,0.823,0.895,19,9,0,1,5,0,10,1,Very Positive,host responsiveness,cleanliness
+40561326,austin,0.918,0.98,51,17,0,1,38,6,24,0,Very Positive,location,cleanliness
+1297838082549753197,twin_cities,0.785,1,1,0,0,0,1,0,0,0,Very Positive,location,noise
+1470430181366528854,austin,0.981,1,1,0,0,0,0,0,0,1,Very Positive,value,value
+1415897966965396806,austin,0.978,1,8,4,0,0,6,2,6,0,Very Positive,location,cleanliness
+36560124,austin,0.399,0.75,8,2,0,2,3,0,0,1,Positive,location,cleanliness
+978545301921260517,twin_cities,0.955,1,1,0,0,0,1,0,1,0,Very Positive,location,noise
+1289172871923057891,twin_cities,0.422,1,1,0,0,0,0,0,0,0,Positive,cleanliness,noise
+1185013902998429563,austin,0.743,0.833,6,2,0,0,2,1,4,0,Very Positive,host responsiveness,cleanliness
+1308301795181486711,chicago,0.388,0.667,3,2,0,1,0,0,0,0,Positive,cleanliness,cleanliness
+928082042087482536,nashville,0.943,1,7,0,0,0,4,2,4,0,Very Positive,location,noise
+581311848630035943,austin,0.634,1,3,1,0,0,0,0,1,0,Very Positive,cleanliness,cleanliness
+566079944698863030,nashville,0.95,1,4,1,0,0,3,1,3,0,Very Positive,location,noise
+1426396476156681886,chicago,0.922,1,10,2,0,1,7,4,3,1,Very Positive,location,noise
+1456915795477457401,seattle,0.948,1,11,7,0,1,4,2,7,1,Very Positive,cleanliness,cleanliness
+1457547211787797549,chicago,0.334,0.75,4,3,0,2,3,1,2,2,Positive,cleanliness,cleanliness
+727095772106660475,austin,0.921,1,4,1,0,0,2,1,2,0,Very Positive,location,noise
+1101532843240499164,seattle,0.862,1,10,6,1,0,3,3,7,1,Very Positive,host responsiveness,cleanliness
+971320758133542972,austin,0.847,1,7,2,0,1,1,1,6,0,Very Positive,host responsiveness,cleanliness
+1026110723385591832,seattle,0.969,1,2,1,0,0,2,1,1,0,Very Positive,location,noise
+1187889511494416984,seattle,0.93,1,3,0,0,0,1,0,2,0,Very Positive,host responsiveness,noise
+50508306,austin,0.939,1,4,2,0,0,2,1,3,0,Very Positive,host responsiveness,cleanliness
+1188442308491408865,twin_cities,0.842,0.944,18,4,1,2,4,2,8,1,Very Positive,host responsiveness,cleanliness
+15643384,chicago,0.917,1,7,1,0,0,4,0,5,0,Very Positive,host responsiveness,cleanliness
+13201315,twin_cities,0.585,0.667,3,0,0,0,3,0,1,0,Very Positive,location,noise
+52722215,twin_cities,0.947,1,1,0,0,0,0,0,1,0,Very Positive,host responsiveness,noise
+1077690274054941802,austin,0.689,1,2,2,0,0,0,0,0,0,Very Positive,cleanliness,cleanliness
+940611419726672486,seattle,0.644,0.9,10,3,0,1,2,1,6,0,Very Positive,host responsiveness,cleanliness
+37533302,austin,0.806,1,12,2,0,1,7,0,6,1,Very Positive,location,cleanliness
+705825794135157409,chicago,0.726,1,1,0,0,0,0,0,0,0,Very Positive,cleanliness,noise
+1475420270457152666,twin_cities,0.565,1,2,1,0,1,1,1,2,1,Very Positive,host responsiveness,noise
+51650986,seattle,0.936,1,5,1,0,1,2,1,3,0,Very Positive,host responsiveness,noise
+41166856,chicago,0.846,1,3,0,0,0,2,0,1,0,Very Positive,location,noise
+37715078,nashville,0.705,0.909,11,0,0,0,5,0,4,0,Very Positive,location,noise
+794001257218479744,austin,0.911,1,8,2,0,1,5,0,6,1,Very Positive,host responsiveness,cleanliness
+1474248234749359518,seattle,0.5,0.778,9,3,0,0,2,1,1,3,Positive,cleanliness,cleanliness
+1413993174602306608,chicago,0.616,0.833,6,2,0,0,3,0,2,0,Very Positive,location,cleanliness
+1402293335810630371,chicago,0.442,0.75,4,0,0,0,2,0,0,1,Positive,location,value
+1369733738577166114,chicago,0.902,1,14,3,0,1,10,3,6,0,Very Positive,location,noise
+686337633992967751,twin_cities,0.799,0.955,22,2,0,1,6,2,15,2,Very Positive,host responsiveness,noise
+1344158587170602269,twin_cities,0.835,1,4,1,0,0,1,0,2,0,Very Positive,host responsiveness,cleanliness
+43861823,nashville,0.821,1,2,0,0,0,0,1,1,0,Very Positive,host responsiveness,noise
+1194323116964657986,twin_cities,0.888,1,2,1,0,0,0,0,1,0,Very Positive,cleanliness,cleanliness
+993709851308422157,twin_cities,0.883,1,17,5,0,1,4,2,6,0,Very Positive,host responsiveness,cleanliness
+671761745389896543,nashville,0.766,1,6,3,0,1,2,0,1,3,Very Positive,cleanliness,cleanliness
+15612131,twin_cities,0.736,1,5,0,0,0,3,0,1,0,Very Positive,location,noise
+1339248186143016019,nashville,0.777,1,2,0,0,0,2,0,1,0,Very Positive,location,noise
+797159986818826882,austin,0.823,1,2,1,0,0,1,1,1,0,Very Positive,cleanliness,noise
+1178443215831685369,austin,0.8,1,5,1,0,0,2,1,3,0,Very Positive,host responsiveness,noise
+1480248901033213918,twin_cities,0.94,1,1,0,0,0,0,0,0,0,Very Positive,cleanliness,noise
+1494918200733832482,seattle,0.465,0.667,3,1,0,0,1,0,0,0,Positive,cleanliness,cleanliness
+1257346256376683274,austin,0.556,0.8,5,1,0,0,1,0,3,0,Very Positive,host responsiveness,cleanliness
+886369975315237080,nashville,0.856,1,7,1,0,0,4,0,5,0,Very Positive,host responsiveness,cleanliness
+1400060429358789749,seattle,0.658,0.846,13,3,1,0,6,0,2,0,Very Positive,location,cleanliness
+45864022,chicago,0.826,1,6,0,1,1,5,0,4,1,Very Positive,location,wifi
+1482618617378444081,seattle,0.973,1,1,0,0,0,1,0,0,0,Very Positive,location,noise
+938674227827593746,austin,0.86,1,5,1,0,0,2,0,3,0,Very Positive,host responsiveness,cleanliness
+1211846038770171832,austin,0.948,1,2,0,0,0,1,1,1,0,Very Positive,location,noise
+1210233408151754320,austin,0.706,1,5,1,0,0,3,1,2,3,Very Positive,location,value
+1171167020923872137,austin,0.422,1,1,0,0,0,1,0,1,0,Positive,location,noise
+557229487619453099,austin,0.694,0.909,11,1,0,0,4,1,1,0,Very Positive,location,noise
+1247150629847030191,austin,0.854,1,4,1,0,0,0,0,2,0,Very Positive,host responsiveness,cleanliness
+1436916503142644233,austin,0.948,1,1,1,0,1,1,0,0,1,Very Positive,cleanliness,cleanliness
+1172906802992412462,austin,0.836,1,1,0,0,0,0,0,1,0,Very Positive,host responsiveness,noise
+47116347,chicago,0.971,1,1,0,0,0,1,0,1,0,Very Positive,location,noise
+17825371,seattle,0.71,0.75,4,0,0,0,3,0,0,0,Very Positive,location,noise
+1147687647342159441,chicago,0.73,0.75,4,1,0,0,2,0,2,0,Very Positive,location,cleanliness
+796328181355400392,nashville,0.693,0.8,5,2,0,0,1,0,2,0,Very Positive,cleanliness,cleanliness
+41968147,chicago,0.625,1,1,0,0,0,0,0,0,0,Very Positive,cleanliness,noise
+934038637600193417,seattle,0.939,1,3,1,0,0,3,0,3,0,Very Positive,location,cleanliness
+1424949580175946018,twin_cities,0.697,0.933,15,5,1,2,7,3,3,1,Very Positive,location,cleanliness
+1253595813051713488,nashville,0.876,1,2,0,0,0,1,0,0,0,Very Positive,location,noise
+1381416956317184112,seattle,0.87,1,5,1,0,0,2,0,1,0,Very Positive,location,cleanliness
+1133216517922177831,twin_cities,0.938,1,4,1,0,0,2,2,1,1,Very Positive,location,noise
+42195743,austin,0.871,1,19,9,0,0,8,0,6,1,Very Positive,cleanliness,cleanliness
+1248572810327846055,chicago,-0.383,0,2,0,0,1,1,1,0,1,Negative,check-in,noise
+941941413832717205,chicago,0.959,1,1,0,0,0,1,0,0,0,Very Positive,location,noise
+1118958369669164796,chicago,0.469,0.5,2,0,0,0,0,0,0,0,Positive,cleanliness,noise
+41552601,chicago,0.597,1,1,0,0,0,0,0,0,0,Very Positive,cleanliness,noise
+1100186402230646863,austin,0.683,0.875,8,2,0,0,6,1,2,0,Very Positive,location,cleanliness
+1457376498605015052,nashville,0.868,1,1,0,0,0,0,0,1,0,Very Positive,host responsiveness,noise
+1379353084022038126,seattle,0.725,1,2,1,0,0,1,0,1,0,Very Positive,cleanliness,cleanliness
+1233307324788620410,chicago,0.94,1,1,0,0,0,1,0,0,0,Very Positive,location,noise
+1471132695568087818,austin,0.807,1,2,1,0,0,1,0,0,0,Very Positive,cleanliness,cleanliness
+48712996,twin_cities,0.99,1,2,1,0,1,0,0,0,0,Very Positive,cleanliness,cleanliness
+1268298206235027970,seattle,0.907,1,2,2,0,0,2,0,1,0,Very Positive,cleanliness,cleanliness
+1168162090256852555,austin,0.822,1,1,0,0,0,0,0,0,0,Very Positive,cleanliness,noise
+729689467632186231,twin_cities,0.95,1,5,3,0,1,3,0,4,0,Very Positive,host responsiveness,cleanliness
+1421131042701522300,seattle,0.994,1,1,0,0,0,1,1,1,0,Very Positive,location,noise
+1318532701395383391,nashville,0.939,1,1,1,0,0,1,0,0,0,Very Positive,cleanliness,cleanliness
+565860587974125858,austin,0.962,1,1,0,0,1,1,0,0,1,Very Positive,check-in,value
+1051039040733574038,twin_cities,0.433,1,1,0,0,1,0,0,1,0,Positive,check-in,check-in
+1010625312610977426,chicago,0.818,1,1,0,0,0,0,0,0,0,Very Positive,cleanliness,noise
+1437899199339563868,seattle,0.914,1,2,1,0,0,1,0,0,0,Very Positive,cleanliness,cleanliness
+1320889805564365190,seattle,0.53,1,3,1,0,0,1,0,2,0,Very Positive,host responsiveness,cleanliness
+1462335794733737486,nashville,0.911,1,1,0,0,0,1,0,1,0,Very Positive,location,noise
+49255953,chicago,0.966,1,1,0,0,0,1,1,1,0,Very Positive,location,noise
+1083714601682222551,seattle,0.977,1,2,1,0,0,2,2,2,1,Very Positive,location,noise
+1194340243718568995,twin_cities,0.814,1,2,1,0,0,1,1,2,0,Very Positive,host responsiveness,noise
+1266659187201246131,seattle,0.945,1,4,0,0,0,3,0,3,0,Very Positive,location,noise
+1091322059320323767,twin_cities,0.88,1,1,0,0,0,0,0,1,0,Very Positive,host responsiveness,noise
+1227600566557955531,chicago,0.878,1,3,0,0,0,2,0,1,0,Very Positive,location,noise
+1350202757885977978,austin,0.941,1,1,0,0,0,0,0,1,0,Very Positive,host responsiveness,noise
+1480829641110875296,twin_cities,0.984,1,2,1,0,0,1,0,2,0,Very Positive,host responsiveness,cleanliness
+700110942578114381,austin,0.881,1,1,0,0,0,1,0,0,0,Very Positive,location,noise
+939038443930135032,austin,0.972,1,1,0,0,0,1,0,1,0,Very Positive,location,noise
+1467399676164553242,seattle,0.926,1,1,0,0,1,0,0,1,0,Very Positive,check-in,check-in
+1369224725451160173,chicago,0.92,1,3,2,1,1,2,1,1,0,Very Positive,cleanliness,cleanliness
+1379822238099392456,nashville,0.695,1,2,1,0,0,0,0,1,0,Very Positive,cleanliness,cleanliness
+594587924827266485,seattle,0.745,1,1,0,0,0,0,0,1,0,Very Positive,host responsiveness,noise
+989219952699911052,austin,0.963,1,1,1,0,0,0,1,1,0,Very Positive,cleanliness,noise
+971964049921193675,seattle,0.791,1,1,0,0,0,1,0,0,0,Very Positive,location,noise
+1049735510251351807,chicago,0.636,1,1,1,0,0,0,0,0,0,Very Positive,cleanliness,cleanliness
+1265330668245083335,austin,0.906,1,1,0,0,0,0,0,1,0,Very Positive,host responsiveness,noise
+640779949060127513,seattle,0.966,1,1,0,0,0,1,1,0,0,Very Positive,location,noise
+16613520,nashville,0.803,0.962,340,53,11,16,257,44,115,46,Very Positive,location,cleanliness
+53432514,seattle,0.886,0.929,14,3,3,0,5,2,8,0,Very Positive,host responsiveness,cleanliness
+595948293511661289,chicago,0.748,0.895,86,35,1,10,48,18,25,5,Very Positive,location,cleanliness
+49757704,twin_cities,0.87,0.962,26,5,0,1,13,3,10,0,Very Positive,location,cleanliness
+5476443,austin,0.915,0.992,473,152,5,30,329,106,176,20,Very Positive,location,cleanliness
+32934782,chicago,0.862,0.976,164,48,0,11,125,13,53,12,Very Positive,location,cleanliness
+22865431,twin_cities,0.846,0.981,267,104,1,20,87,21,110,21,Very Positive,host responsiveness,cleanliness
+1061059907241759502,chicago,0.821,1,5,0,0,2,2,0,2,0,Very Positive,check-in,check-in
+1272767641979107945,twin_cities,0.889,1,13,1,0,0,4,1,4,0,Very Positive,location,noise
+6991188,seattle,0.829,0.959,439,107,11,37,258,98,183,17,Very Positive,location,cleanliness
+582334231671073870,austin,0.797,0.943,159,47,3,5,78,15,50,2,Very Positive,location,cleanliness
+43594534,chicago,0.812,1,9,2,0,0,5,3,2,0,Very Positive,location,noise
+1078422875120073352,nashville,0.898,1,24,9,0,1,17,5,8,0,Very Positive,location,cleanliness
+25458599,seattle,0.757,0.916,119,30,4,8,71,9,40,2,Very Positive,location,cleanliness
+1110180960253860842,nashville,0.624,0.833,30,9,2,4,17,4,8,4,Very Positive,location,cleanliness
+675324739303021108,seattle,0.743,0.875,8,1,1,1,5,0,2,0,Very Positive,location,cleanliness
+1056678219679017531,nashville,0.834,0.984,61,18,0,3,37,7,12,3,Very Positive,location,cleanliness
+1101793355261155740,twin_cities,0.884,1,51,11,0,2,17,3,18,0,Very Positive,host responsiveness,cleanliness
+22715967,seattle,0.928,0.99,199,83,3,24,148,25,82,5,Very Positive,location,cleanliness
+1475420270457152666,twin_cities,0.565,1,2,1,0,1,1,1,2,1,Very Positive,host responsiveness,noise
+1268298206235027970,seattle,0.907,1,2,2,0,0,2,0,1,0,Very Positive,cleanliness,cleanliness
